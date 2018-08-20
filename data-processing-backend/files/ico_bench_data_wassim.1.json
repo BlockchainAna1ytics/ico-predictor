@@ -14,7 +14,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "soft_cap": "3 000 ETH",
         "hard_cap": "87 500 ETH",
         "raised": "Unknown",
@@ -44,7 +44,7 @@
             "LTC",
             "NXT"
         ],
-        "distributed": "in ICO 7.5%",
+        "distributed": "7.5%",
         "raised": "Unknown",
         "price": "0.0011 ",
         "start_date": "9th Feb 2018",
@@ -91,7 +91,7 @@
             "BCH",
             "ETC"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "soft_cap": "950,000 USD",
         "hard_cap": "32,000,000 USD",
         "raised": "$19,436",
@@ -159,7 +159,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "0.5000 ",
         "start_date": "2nd Feb 2018",
@@ -204,7 +204,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "20,000 ETH",
         "raised": "Unknown",
         "price": "1.1400 ",
@@ -234,7 +234,7 @@
             "DASH",
             "BCH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "raised": "$11,200,000",
         "price": "1.0000 ",
         "start_date": "29th Jan 2018",
@@ -256,7 +256,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "36.6500 ",
         "start_date": "6th Nov 2017",
@@ -277,7 +277,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "hard_cap": "10,000,000 USD",
         "raised": "Unknown",
         "price": "0.1000 ",
@@ -371,7 +371,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "3,500 ETH",
         "hard_cap": "23,000 ETH",
         "raised": "Unknown",
@@ -415,7 +415,7 @@
             "Vision": "3.3",
             "Product": "3.3"
         },
-        "distributed": "in ICO 72%",
+        "distributed": "72%",
         "raised": "$3,731,609",
         "price": "0.3000 ",
         "start_date": "1st Dec 2017",
@@ -464,7 +464,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "hard_cap": "7,700,000 USD",
         "raised": "Unknown",
         "price": "0.1800 ",
@@ -485,7 +485,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 64%",
+        "distributed": "64%",
         "soft_cap": "2,500,00 USD",
         "hard_cap": "7,500,000 USD",
         "raised": "$6,981,328",
@@ -509,7 +509,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO ~66%",
+        "distributed": "~66%",
         "raised": "Unknown",
         "price": "0.4500 ",
         "start_date": "10th Nov 2017",
@@ -549,7 +549,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "hard_cap": "150,000,000 BUBO",
         "raised": "$30,000,000",
         "price": "0.3500 ",
@@ -593,7 +593,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "500,000 USD",
         "hard_cap": "7,900,000 USD",
         "raised": "$128,110",
@@ -667,7 +667,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "1,500,000 USD",
         "hard_cap": "5,500,000 USD",
         "raised": "$1,934,219",
@@ -690,7 +690,7 @@
             "Vision": "4.4",
             "Product": "4.3"
         },
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "$17,470,740",
         "price": "1.1775 ",
         "start_date": "10th Dec 2017",
@@ -713,7 +713,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "15000 ETH",
         "hard_cap": "55000 ETH",
         "raised": "Unknown",
@@ -743,7 +743,7 @@
             "XRP",
             "Fiat"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "3,900 ETH",
         "raised": "$8,915,000",
         "price": "0.0690 ",
@@ -769,7 +769,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "soft_cap": "3 000 000 USD",
         "raised": "$5,000,000",
         "price": "2.0000 ",
@@ -794,7 +794,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "850 ETH",
         "hard_cap": "1000 ETH",
         "raised": "Unknown",
@@ -821,7 +821,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "3,500 ETH",
         "hard_cap": "15,000 ETH",
         "raised": "$7,737",
@@ -847,7 +847,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "0.1926 ",
         "start_date": "11th Dec 2017",
@@ -871,7 +871,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "raised": "Unknown",
         "price": "0.0000 ",
         "start_date": "27th Nov 2017",
@@ -936,7 +936,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "soft_cap": "500 ETH",
         "hard_cap": "9,100 ETH",
         "raised": "Unknown",
@@ -985,7 +985,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "hard_cap": "238421940 DRGN",
         "raised": "$13,700,000",
         "price": "0.0660 ",
@@ -1014,7 +1014,7 @@
             "ZEC",
             "DASH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "5,000,000,000 DROP",
         "hard_cap": "10,000,000,000 DROP",
         "raised": "$60,000,000",
@@ -1067,7 +1067,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "soft_cap": "5000000 EMU",
         "raised": "$557,250",
         "price": "0.0500 ",
@@ -1094,7 +1094,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "16,000,000 USD",
         "raised": "Unknown",
         "price": "0.0242 ",
@@ -1118,7 +1118,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "hard_cap": "30,000,000 USD",
         "raised": "$400,000",
         "price": "1  = 1 ",
@@ -1144,7 +1144,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "hard_cap": "25,000,000 USD",
         "raised": "Unknown",
         "price": "0.0250 ",
@@ -1168,7 +1168,7 @@
             "BTC",
             "Fiat"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "soft_cap": "500,000 USD",
         "hard_cap": "37,000,000 USD",
         "raised": "Unknown",
@@ -1195,7 +1195,7 @@
             "ETH",
             "LTC"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "hard_cap": "200,000,000 USD",
         "raised": "Unknown",
         "price": "1  = 0.4 ",
@@ -1223,7 +1223,7 @@
             "BCH",
             "Fiat"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "soft_cap": "3,000,000 USD",
         "hard_cap": "25,000,000USD",
         "raised": "Unknown",
@@ -1268,7 +1268,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 49%",
+        "distributed": "49%",
         "hard_cap": "49000 ETH",
         "raised": "$263,508554.75351740 ETH",
         "price": "0.0470 ",
@@ -1293,7 +1293,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 74%",
+        "distributed": "74%",
         "soft_cap": "1000 ETH",
         "raised": "$4,000,000",
         "price": "0.6800 ",
@@ -1325,7 +1325,7 @@
             "XMR",
             "WAVES"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "raised": "Unknown",
         "price": "0.2500 ",
         "start_date": "9th Jan 2018",
@@ -1352,7 +1352,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "50000000 USD",
         "hard_cap": "12.000.000 ITC",
         "raised": "$1,610,706",
@@ -1471,7 +1471,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "raised": "Unknown",
         "price": "0.4540 ",
         "start_date": "8th Nov 2017",
@@ -1494,7 +1494,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "soft_cap": "0",
         "hard_cap": "30 000 ETH",
         "raised": "Unknown",
@@ -1562,7 +1562,7 @@
             "Vision": "4.4",
             "Product": "3.8"
         },
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "soft_cap": "25 000 000 USD",
         "hard_cap": "36 000 000 USD",
         "raised": "$32,706,262",
@@ -1586,7 +1586,7 @@
             "Vision": "3.8",
             "Product": "3.6"
         },
-        "distributed": "in ICO 76%",
+        "distributed": "76%",
         "soft_cap": "2,500,000 USD",
         "hard_cap": "26,600,000 USD",
         "raised": "Unknown",
@@ -1612,7 +1612,7 @@
             "LTC",
             "BTH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "raised": "Unknown",
         "price": "1  = 0.90 ",
         "start_date": "20th Mar 2018",
@@ -1645,7 +1645,7 @@
             "ETH",
             "LTC"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "hard_cap": "19 000 000 USD",
         "raised": "$5,000,000",
         "price": "1.0000 ",
@@ -1678,7 +1678,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "soft_cap": "3,500 ETH",
         "hard_cap": "120000000 KOT",
         "raised": "Unknown",
@@ -1702,7 +1702,7 @@
             "ETH",
             "USD"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "soft_cap": "21,000,000 USD",
         "hard_cap": "33,000,000 USD",
         "raised": "Unknown",
@@ -1751,7 +1751,7 @@
             "BTC",
             "LTC"
         ],
-        "distributed": "in ICO 3.37%",
+        "distributed": "3.37%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "13th May 2018",
@@ -1773,7 +1773,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "1 000 000 USD",
         "hard_cap": "50 000 000 USD",
         "raised": "$10,000,000",
@@ -1819,7 +1819,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 15%",
+        "distributed": "15%",
         "hard_cap": "40,000,000 MCX",
         "raised": "Unknown",
         "price": "0.5000 ",
@@ -1844,7 +1844,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "8,000,000 USD",
         "hard_cap": "100,000 ETH",
         "raised": "$5,000,000",
@@ -1890,7 +1890,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "raised": "$311,000",
         "price": "0.2000 ",
         "start_date": "9th Dec 2017",
@@ -1953,7 +1953,7 @@
             "LTC",
             "USDT"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "soft_cap": "100,000 USD",
         "raised": "$750,000",
         "price": "1.0000 ",
@@ -1978,7 +1978,7 @@
             "ETH",
             "LTC"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "raised": "$118,904400.00000000 ETH",
         "price": "1.0918 ",
         "start_date": "2nd Aug 2017",
@@ -2002,7 +2002,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "1,575 ETH",
         "hard_cap": "15,750 ETH",
         "raised": "$58,323",
@@ -2027,7 +2027,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 33%",
+        "distributed": "33%",
         "soft_cap": "2,500 ETH",
         "hard_cap": "19,000 ETH",
         "raised": "$2,000,000",
@@ -2051,7 +2051,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "132,000 USD",
         "hard_cap": "13,200,000 USD",
         "raised": "Unknown",
@@ -2077,7 +2077,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "raised": "Unknown",
         "price": "0.0014 ",
         "start_date": "11th Dec 2017",
@@ -2101,7 +2101,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 20%",
+        "distributed": "20%",
         "raised": "Unknown",
         "price": "1  = 0.0001 ",
         "start_date": "20th Mar 2018",
@@ -2196,7 +2196,7 @@
             "LTC",
             "Fiat"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "12500000 USD",
         "raised": "$12,500,000",
         "price": "0.0500 ",
@@ -2221,7 +2221,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "5,000,000 PNT",
         "hard_cap": "56,000,000 PNT",
         "raised": "$1,987,132",
@@ -2288,7 +2288,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "2,500 ETH",
         "hard_cap": "12,500 ETH",
         "raised": "$761,688",
@@ -2313,7 +2313,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "5 000 000 USD",
         "raised": "$7,260,000",
         "price": "1  = 0.01 ",
@@ -2338,7 +2338,7 @@
             "ETH",
             "Fiat"
         ],
-        "distributed": "in ICO 60",
+        "distributed": "60",
         "raised": "$3,027,311",
         "price": "2.7500 ",
         "start_date": "20th Jul 2017",
@@ -2362,7 +2362,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "100 ETH",
         "hard_cap": "11154 ETH",
         "raised": "Unknown",
@@ -2387,7 +2387,7 @@
             "ETH",
             "Fiat"
         ],
-        "distributed": "in ICO 42%",
+        "distributed": "42%",
         "soft_cap": "5,000,000 EUR",
         "hard_cap": "48 000 000 USD",
         "raised": "Unknown",
@@ -2410,7 +2410,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "1000000 USD",
         "raised": "$1,000,000",
         "price": "1.0600 ",
@@ -2432,7 +2432,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 66.52%",
+        "distributed": "66.52%",
         "soft_cap": "500 ETH",
         "raised": "Unknown",
         "price": "1  = 0.003125 ",
@@ -2457,7 +2457,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "500 ETH",
         "hard_cap": "3,750 ETH",
         "raised": "Unknown",
@@ -2482,7 +2482,7 @@
             "ETH",
             "Fiat"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "hard_cap": "7,500,000 USD",
         "raised": "Unknown",
         "price": "0.0100 ",
@@ -2508,7 +2508,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 21%",
+        "distributed": "21%",
         "soft_cap": "1,000 ETH",
         "hard_cap": "21,000 ETH",
         "raised": "Unknown",
@@ -2534,7 +2534,7 @@
             "\u0415\u0422\u041d",
             "Various"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "1000000 USD",
         "hard_cap": "10000000 USD",
         "raised": "$96,428",
@@ -2583,7 +2583,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "1,000,000 USD",
         "hard_cap": "21,450,000 USD",
         "raised": "$7,247,400",
@@ -2616,7 +2616,7 @@
             "BCH",
             "ZEC"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "hard_cap": "160 000 ETH",
         "raised": "Unknown",
         "price": "0.5800 ",
@@ -2640,7 +2640,7 @@
             "BTC",
             "LTC"
         ],
-        "distributed": "in ICO 84%",
+        "distributed": "84%",
         "soft_cap": "100,000 USD",
         "hard_cap": "20,000,000 USD",
         "raised": "$441,0095.61000000 BTC425.30000000 ETH559.05000000 LTC",
@@ -2667,7 +2667,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 10%",
+        "distributed": "10%",
         "soft_cap": "11,000.000 USD",
         "hard_cap": "46 900 000 USD",
         "raised": "Unknown",
@@ -2692,7 +2692,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "500 ETH",
         "hard_cap": "150000 ETH",
         "raised": "Unknown",
@@ -2718,7 +2718,7 @@
             "LTC",
             "fiat"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "soft_cap": "2,000,000 USD",
         "hard_cap": "27,000,000 USD",
         "raised": "$8,000,000",
@@ -2745,7 +2745,7 @@
             "BTC",
             "Fiat"
         ],
-        "distributed": "in ICO 72%",
+        "distributed": "72%",
         "hard_cap": "48000 ETH",
         "raised": "$4,000,000",
         "price": "150  = 1 ",
@@ -2769,7 +2769,7 @@
             "ETH",
             "LTC"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "750,000 USD",
         "hard_cap": "5,000,000 USD",
         "raised": "$2,000,000",
@@ -2795,7 +2795,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "2000 ETH",
         "hard_cap": "10000 ETH",
         "raised": "$1,083,204",
@@ -2867,7 +2867,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 54%",
+        "distributed": "54%",
         "hard_cap": "125,000 ETH",
         "raised": "$550,0001,889.70000000 ETH",
         "price": "0.1700 ",
@@ -2895,7 +2895,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 66%",
+        "distributed": "66%",
         "hard_cap": "37,000 ETH",
         "raised": "Unknown",
         "price": "0.1287 ",
@@ -2921,7 +2921,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 51%",
+        "distributed": "51%",
         "soft_cap": "$1,000,000",
         "hard_cap": "$10,000,000",
         "raised": "Unknown",
@@ -2946,7 +2946,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "10000 ETH",
         "hard_cap": "156000 ETH",
         "raised": "Unknown",
@@ -2974,7 +2974,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "36,000,000 VEND",
         "hard_cap": "120,000,000 VEND",
         "raised": "Unknown",
@@ -3000,7 +3000,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "$14,505,305",
         "price": "0.0500 ",
         "start_date": "20th Feb 2018",
@@ -3053,7 +3053,7 @@
             "ETH",
             "LTC"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "2,000,000 WSC",
         "hard_cap": "70,000,000 WSC",
         "raised": "$87,740",
@@ -3078,7 +3078,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 16%",
+        "distributed": "16%",
         "raised": "Unknown",
         "price": "0.0850 ",
         "start_date": "15th Mar 2018",
@@ -3149,7 +3149,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO ~85%",
+        "distributed": "~85%",
         "soft_cap": "10000 ETH",
         "hard_cap": "20 000 000 XCH",
         "raised": "Unknown",
@@ -3173,7 +3173,7 @@
         "accepting": [
             "BTC"
         ],
-        "distributed": "in ICO  72%",
+        "distributed": " 72%",
         "soft_cap": "540,000 USD",
         "hard_cap": "2,493,320 USD",
         "raised": "Unknown",
@@ -3201,7 +3201,7 @@
             "LTC",
             "ZCH"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "soft_cap": "2500 WAVES",
         "hard_cap": "15000 WAVES",
         "raised": "$1,793",
@@ -3224,7 +3224,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "hard_cap": "35 000 ETH",
         "raised": "Unknown",
         "price": "0.0580 ",
@@ -3249,7 +3249,7 @@
             "BTC",
             "LTC"
         ],
-        "distributed": "in ICO 86%",
+        "distributed": "86%",
         "raised": "Unknown",
         "start_date": "1st Nov 2017",
         "end_date": "15th Dec 2017"
@@ -3270,7 +3270,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "7,500,000 USD",
         "hard_cap": "100,000,000 YUT",
         "raised": "Unknown",
@@ -3294,7 +3294,7 @@
             "ETH",
             "XEM"
         ],
-        "distributed": "in ICO 77%",
+        "distributed": "77%",
         "soft_cap": "2,000,000 USD",
         "hard_cap": "15,000,000 USD",
         "raised": "$680,000",
@@ -3318,7 +3318,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "250,000 USD",
         "hard_cap": "50,000,000 USD",
         "raised": "Unknown",
@@ -3367,7 +3367,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 67%",
+        "distributed": "67%",
         "soft_cap": "1500 ETH",
         "hard_cap": "30000 ETH",
         "raised": "Unknown",
@@ -3396,7 +3396,7 @@
             "ZZC",
             "BCH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "4,000,000 USD",
         "hard_cap": "10,000,000 USD",
         "raised": "Unknown",
@@ -3448,7 +3448,7 @@
             "LTC",
             "Fiat"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "10th Oct 2017",
@@ -3473,7 +3473,7 @@
             "LTC",
             "BCH"
         ],
-        "distributed": "in ICO 93,75 %",
+        "distributed": "93,75 %",
         "hard_cap": "32,000,000 USD",
         "raised": "Unknown",
         "price": "0.9000 ",
@@ -3515,7 +3515,7 @@
             "Dash",
             "LTC"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "1000 ETH",
         "hard_cap": "30000 ETH",
         "raised": "Unknown",
@@ -3540,7 +3540,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "150,000 ETH",
         "raised": "Unknown",
         "price": "1.7500 ",
@@ -3566,7 +3566,7 @@
             "WAVES",
             "Fiat"
         ],
-        "distributed": "in ICO 35%",
+        "distributed": "35%",
         "soft_cap": "60,000 EUR",
         "raised": "$65,600",
         "price": "0.0187 ",
@@ -3595,7 +3595,7 @@
             "LTC",
             "DASH"
         ],
-        "distributed": "in ICO 93%",
+        "distributed": "93%",
         "soft_cap": "1 000 000 USD",
         "raised": "Unknown",
         "price": "0.0340 ",
@@ -3620,7 +3620,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "1000 BTC",
         "hard_cap": "10000 BTC",
         "raised": "Unknown",
@@ -3645,7 +3645,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 33.3%",
+        "distributed": "33.3%",
         "raised": "Unknown",
         "price": "2.0000 ",
         "start_date": "25th Nov 2017",
@@ -3667,7 +3667,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "2 000 ETH",
         "hard_cap": "20 000 ETH",
         "raised": "Unknown",
@@ -3737,7 +3737,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 45%",
+        "distributed": "45%",
         "raised": "Unknown",
         "price": "0.1500 ",
         "start_date": "20th Nov 2017",
@@ -3789,7 +3789,7 @@
             "DASH",
             "WAVES"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "hard_cap": "4 500 000 USD",
         "raised": "Unknown",
         "price": "0.5000 ",
@@ -3813,7 +3813,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "hard_cap": "150,000 ETH",
         "raised": "Unknown",
         "price": "0.1687 ",
@@ -3875,7 +3875,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 34.5%",
+        "distributed": "34.5%",
         "soft_cap": "50,000 ETH",
         "hard_cap": "100,000 ETH",
         "raised": "Unknown",
@@ -3900,7 +3900,7 @@
             "BTC",
             "LTC"
         ],
-        "distributed": "in ICO 60 %",
+        "distributed": "60 %",
         "soft_cap": "6000 ETH",
         "hard_cap": "12000 ETH",
         "raised": "Unknown",
@@ -3954,7 +3954,7 @@
             "EOS",
             "NEO"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "raised": "Unknown",
         "price": "0.0800 ",
         "start_date": "17th Apr 2018",
@@ -3997,7 +3997,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 68%",
+        "distributed": "68%",
         "hard_cap": "18600 ETH",
         "raised": "Unknown",
         "price": "1  = 4000 ",
@@ -4022,7 +4022,7 @@
             "LTC",
             "Wire"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "1,000,000 USD",
         "hard_cap": "10,000,000 USD",
         "raised": "Unknown",
@@ -4048,7 +4048,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "Unknown",
         "price": "0.8500 ",
         "start_date": "1st Feb 2018",
@@ -4069,7 +4069,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 99%",
+        "distributed": "99%",
         "soft_cap": "375,000,000 CCLC",
         "hard_cap": "450,000,000 CCLC",
         "raised": "$7,414",
@@ -4094,7 +4094,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "hard_cap": "5,250,000 USD",
         "raised": "Unknown",
         "price": "0.0150 ",
@@ -4119,7 +4119,7 @@
             "LTC",
             "Fiat"
         ],
-        "distributed": "in ICO 78%",
+        "distributed": "78%",
         "soft_cap": "2,000,000 USD",
         "hard_cap": "11,000,000 USD",
         "raised": "Unknown",
@@ -4144,7 +4144,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 71%",
+        "distributed": "71%",
         "soft_cap": "25000 ETH",
         "hard_cap": "154622 ETH",
         "raised": "$8,515,463",
@@ -4169,7 +4169,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 92%",
+        "distributed": "92%",
         "soft_cap": "250 BTC",
         "hard_cap": "1500 BTC",
         "raised": "$2,661,505",
@@ -4194,7 +4194,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "raised": "Unknown",
         "price": "0.4537 ",
         "start_date": "22nd Oct 2017",
@@ -4215,7 +4215,7 @@
             "Product": "-"
         },
         "min_investment": "0.02 COR",
-        "distributed": "in ICO 51%",
+        "distributed": "51%",
         "raised": "$3,123,000",
         "price": "0.7500 ",
         "start_date": "18th Jul 2017",
@@ -4245,7 +4245,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "10,000,000 USD",
         "hard_cap": "15,000,000 USD",
         "raised": "Unknown",
@@ -4269,7 +4269,7 @@
         "accepting": [
             "BTC"
         ],
-        "distributed": "in ICO 25%",
+        "distributed": "25%",
         "raised": "$206,471",
         "start_date": "1st Oct 2017",
         "end_date": "1st Jan 2018"
@@ -4296,7 +4296,7 @@
             "ETC",
             "DGB"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "27,000,000 USD",
         "raised": "$3,428,658",
         "price": "0.0100 ",
@@ -4318,7 +4318,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "hard_cap": "40080 ETH",
         "raised": "Unknown",
         "price": "0.0300 ",
@@ -4339,7 +4339,7 @@
             "Product": "-"
         },
         "min_investment": "0.1 ETH",
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "1 200 000 USD",
         "hard_cap": "28 000 000 USD",
         "raised": "Unknown",
@@ -4366,7 +4366,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "500,000 USD",
         "hard_cap": "10,000,000 USD",
         "raised": "$10,246",
@@ -4392,7 +4392,7 @@
             "Product": "1.0"
         },
         "min_investment": "0.1 ETH",
-        "distributed": "in ICO 52%",
+        "distributed": "52%",
         "soft_cap": "2,500 ETH",
         "hard_cap": "10,000 ETH",
         "raised": "Unknown",
@@ -4498,7 +4498,7 @@
             "BTC",
             "Fiat"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "raised": "$100,012,279",
         "price": "1.0000 ",
         "start_date": "15th Dec 2017",
@@ -4522,7 +4522,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "raised": "$50,000",
         "price": "0.0400 ",
         "start_date": "19th Feb 2018",
@@ -4544,7 +4544,7 @@
             "Product": "2.0"
         },
         "min_investment": "PreICO = $100,000; ICO = $100",
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "raised": "Unknown",
         "price": "0.5000 ",
         "start_date": "15th Mar 2018",
@@ -4569,7 +4569,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "2,000,000 USD",
         "hard_cap": "20,000,000 USD",
         "raised": "$5,831,278",
@@ -4595,7 +4595,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 98%",
+        "distributed": "98%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "1st Feb 2018",
@@ -4619,7 +4619,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60 %",
+        "distributed": "60 %",
         "hard_cap": "20,000,000 USD",
         "raised": "Unknown",
         "price": "2.6600 ",
@@ -4642,7 +4642,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "soft_cap": "15,000,000 USD",
         "hard_cap": "100,000,000 USD",
         "raised": "$40,000,000",
@@ -4693,7 +4693,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 68%",
+        "distributed": "68%",
         "soft_cap": "2000 ETH",
         "hard_cap": "11 400 ETH",
         "raised": "$480,350",
@@ -4717,7 +4717,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 74%",
+        "distributed": "74%",
         "soft_cap": "1,500 ETH",
         "hard_cap": "25,000 ETH",
         "raised": "Unknown",
@@ -4764,7 +4764,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 53%",
+        "distributed": "53%",
         "raised": "$1,702,5895.00000000 ETH",
         "price": "4.7627 ",
         "start_date": "16th Sep 2017",
@@ -4831,7 +4831,7 @@
             "Vision": "1.8",
             "Product": "3.0"
         },
-        "distributed": "in ICO 77%",
+        "distributed": "77%",
         "soft_cap": "1 500 000 USD",
         "hard_cap": "4 500 000 USD",
         "raised": "Unknown",
@@ -4856,7 +4856,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "soft_cap": "25,000,000 GRAN",
         "hard_cap": "212,500,000 GRAN",
         "raised": "$7,000,000",
@@ -4883,7 +4883,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "2,000,000 USD",
         "hard_cap": "10,000,000 USD",
         "raised": "$1,947,387",
@@ -4939,7 +4939,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 100%",
+        "distributed": "100%",
         "hard_cap": "1 000 000 000",
         "raised": "Unknown",
         "price": "1  = 0.02 ",
@@ -4963,7 +4963,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "0.5171 ",
         "start_date": "16th Jun 2018",
@@ -4988,7 +4988,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 76%",
+        "distributed": "76%",
         "soft_cap": "100 ETH",
         "raised": "Unknown",
         "price": "0.1000 ",
@@ -5009,7 +5009,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 68%",
+        "distributed": "68%",
         "soft_cap": "6,000,000 USD",
         "hard_cap": "10,000,000 USD",
         "raised": "Unknown",
@@ -5041,7 +5041,7 @@
             "WAVES",
             "Various"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "hard_cap": "55,000,000 USD",
         "raised": "Unknown",
         "price": "1.0000 ",
@@ -5105,7 +5105,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "13500 ETH",
         "raised": "Unknown",
         "price": "0.0530 ",
@@ -5128,7 +5128,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "0.0620 ",
         "start_date": "15th May 2018",
@@ -5149,7 +5149,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 87.40%",
+        "distributed": "87.40%",
         "soft_cap": "5000000 USD",
         "hard_cap": "34000000 USD",
         "raised": "Unknown",
@@ -5181,7 +5181,7 @@
             "LTC",
             "Fiat"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "hard_cap": "30000000 USD",
         "raised": "$7,000,000",
         "price": "1.0000 ",
@@ -5208,7 +5208,7 @@
             "USD",
             "ZAR"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "12 756 000 USD",
         "hard_cap": "156800000 USD",
         "raised": "$1,000,000",
@@ -5233,7 +5233,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 10%",
+        "distributed": "10%",
         "soft_cap": "5,000,000 USD",
         "hard_cap": "10,000,000 USD",
         "raised": "$10,000,000",
@@ -5278,7 +5278,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "1,000,000 USD",
         "hard_cap": "11,000,000 USD",
         "raised": "Unknown",
@@ -5302,7 +5302,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "hard_cap": "670,000,000",
         "raised": "Unknown",
         "price": "0.0460 ",
@@ -5354,7 +5354,7 @@
             "MONERO",
             "Fiat"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "soft_cap": "5,000,000 USD",
         "hard_cap": "55,000,000 USD",
         "raised": "Unknown",
@@ -5379,7 +5379,7 @@
             "Vision": "1.0",
             "Product": "1.0"
         },
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "$12,000,000",
         "price": "0.0010 ",
         "start_date": "1st Feb 2018",
@@ -5405,7 +5405,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "soft_cap": "50000 MTIP",
         "hard_cap": "30,000,000 MTIP",
         "raised": "$3,226,597",
@@ -5432,7 +5432,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "2500 ETH",
         "hard_cap": "25000 ETH",
         "raised": "Unknown",
@@ -5549,7 +5549,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "soft_cap": "3 000 000 NYX",
         "hard_cap": "15 000 000 NYX",
         "raised": "Unknown",
@@ -5593,7 +5593,7 @@
             "ETH",
             "WAVES"
         ],
-        "distributed": "in ICO 88%",
+        "distributed": "88%",
         "soft_cap": "1400000 USD",
         "hard_cap": "16750000 USD",
         "raised": "Unknown",
@@ -5619,7 +5619,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 37.5%",
+        "distributed": "37.5%",
         "hard_cap": "32,608 ETH",
         "raised": "Unknown",
         "price": "0.2130 ",
@@ -5646,7 +5646,7 @@
             "LTC",
             "Fiat"
         ],
-        "distributed": "in ICO Dutch Auction",
+        "distributed": "Dutch Auction",
         "soft_cap": "2,500,000 USD",
         "hard_cap": "10,000,000 USD",
         "raised": "Unknown",
@@ -5674,7 +5674,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "20000 ETH",
         "raised": "Unknown",
         "price": "1.0200 ",
@@ -5696,7 +5696,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "0.0200 ",
         "start_date": "28th Jun 2018",
@@ -5718,7 +5718,7 @@
         "accepting": [
             "BTC"
         ],
-        "distributed": "in ICO 17%",
+        "distributed": "17%",
         "raised": "$1,700,000",
         "price": "0.6000 ",
         "start_date": "24th Jan 2018",
@@ -5744,7 +5744,7 @@
             "LTC",
             "BTH"
         ],
-        "distributed": "in ICO 72%",
+        "distributed": "72%",
         "soft_cap": "500,000 USD",
         "hard_cap": "30,000,000 USD",
         "raised": "Unknown",
@@ -5770,7 +5770,7 @@
             "BTC",
             "FIAT"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "soft_cap": "3,000,000 USD",
         "hard_cap": "30,000,000 USD",
         "raised": "Unknown",
@@ -5818,7 +5818,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "3000000 USD",
         "hard_cap": "35000000 USD",
         "raised": "$414,378",
@@ -5883,7 +5883,7 @@
             "ETH",
             "LTC"
         ],
-        "distributed": "in ICO 20%",
+        "distributed": "20%",
         "soft_cap": "12,000,000 SKT",
         "hard_cap": "200,000,000 SKT",
         "raised": "Unknown",
@@ -5949,7 +5949,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "hard_cap": "10,000 ETH",
         "raised": "Unknown",
         "price": "1  = 10000000 ",
@@ -5975,7 +5975,7 @@
             "LTC",
             "Fiat"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "Unknown",
         "price": "0.1000 ",
         "start_date": "1st Nov 2017",
@@ -5997,7 +5997,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "soft_cap": "5,000 ETH",
         "hard_cap": "50,000 ETH",
         "raised": "Unknown",
@@ -6020,7 +6020,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "raised": "Unknown",
         "price": "1  = 0.000020 ",
         "start_date": "29th Mar 2018",
@@ -6072,7 +6072,7 @@
             "Steem",
             "SBD"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "hard_cap": "28,125,000 USD",
         "raised": "Unknown",
         "price": "0.1500 ",
@@ -6095,7 +6095,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "4000 ETH",
         "hard_cap": "105000 ETH",
         "raised": "$19,438,940",
@@ -6119,7 +6119,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 53%",
+        "distributed": "53%",
         "soft_cap": "6000 ETH",
         "hard_cap": "24000 ETH",
         "raised": "Unknown",
@@ -6142,7 +6142,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 67%",
+        "distributed": "67%",
         "raised": "$5,700,000",
         "price": "0.1500 ",
         "start_date": "7th Jul 2018",
@@ -6164,7 +6164,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "$4,000,000",
         "price": "1  = 70000 ",
         "start_date": "1st Mar 2018",
@@ -6185,7 +6185,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 23 %",
+        "distributed": "23 %",
         "raised": "Unknown",
         "price": "1  = 0,12 ",
         "start_date": "16th Mar 2018",
@@ -6208,7 +6208,7 @@
         "accepting": [
             "BTC"
         ],
-        "distributed": "in ICO 91%",
+        "distributed": "91%",
         "soft_cap": "1000 BTC",
         "hard_cap": "4550 BTC",
         "raised": "Unknown",
@@ -6257,7 +6257,7 @@
             "BTC",
             "Fiat"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "800,000 USD",
         "raised": "Unknown",
         "price": "0.0500 ",
@@ -6281,7 +6281,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 33%",
+        "distributed": "33%",
         "soft_cap": "50,000,000 USD",
         "raised": "Unknown",
         "price": "0.0450 ",
@@ -6309,7 +6309,7 @@
             "LTC",
             "Fiat"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "hard_cap": "200,000,000 SHP",
         "raised": "Unknown",
         "price": "0.6500 ",
@@ -6333,7 +6333,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 68%",
+        "distributed": "68%",
         "raised": "$103,261",
         "price": "0.0733 ",
         "start_date": "29th Aug 2017",
@@ -6354,7 +6354,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "hard_cap": "4,000,000 USD",
         "raised": "Unknown",
         "price": "0.0620 ",
@@ -6398,7 +6398,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "raised": "$288,7981,169.60000000 ETH",
         "price": "0.0519 ",
         "start_date": "16th Aug 2017",
@@ -6440,7 +6440,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 28%",
+        "distributed": "28%",
         "raised": "Unknown",
         "price": "0.0006 ",
         "start_date": "16th Jun 2018",
@@ -6465,7 +6465,7 @@
             "LTC",
             "Various"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "5th Mar 2018",
@@ -6489,7 +6489,7 @@
             "BTC",
             "LTC"
         ],
-        "distributed": "in ICO 86%",
+        "distributed": "86%",
         "hard_cap": "111,000,000 UCMG",
         "raised": "Unknown",
         "price": "0.5000 ",
@@ -6517,7 +6517,7 @@
             "BTC",
             "USD"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "2,000,000 USD",
         "hard_cap": "25,000,000 USD",
         "raised": "$7,000,000",
@@ -6566,7 +6566,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 66.5%",
+        "distributed": "66.5%",
         "soft_cap": "5 000 000 USD",
         "hard_cap": "63 500 000 USD",
         "raised": "Unknown",
@@ -6610,7 +6610,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "1,000,000 USD",
         "hard_cap": "5,000,000 USD",
         "raised": "Unknown",
@@ -6639,7 +6639,7 @@
         "accepting": [
             "XLM"
         ],
-        "distributed": "in ICO 23.79%",
+        "distributed": "23.79%",
         "raised": "Unknown",
         "price": "97.3800 ",
         "start_date": "3rd Dec 2017",
@@ -6671,7 +6671,7 @@
             "XRP",
             "Fiat"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "1,000,000 USD",
         "hard_cap": "5,000,000 USD",
         "raised": "Unknown",
@@ -6694,7 +6694,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 67%",
+        "distributed": "67%",
         "raised": "Unknown",
         "price": "3.1740 ",
         "start_date": "1st Jan 2018",
@@ -6715,7 +6715,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 55 %",
+        "distributed": "55 %",
         "soft_cap": "1,000,000 OPDB",
         "hard_cap": "27,500,000 OPDB",
         "raised": "$2,499,299",
@@ -6739,7 +6739,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 33%",
+        "distributed": "33%",
         "hard_cap": "33000000",
         "raised": "Unknown49.02268590 ETH",
         "price": "1.4631 ",
@@ -6761,7 +6761,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "hard_cap": "1290000 USD",
         "raised": "Unknown",
         "price": "0.5000 ",
@@ -6781,7 +6781,7 @@
             "Vision": "3.8",
             "Product": "3.8"
         },
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "raised": "Unknown",
         "price": "0.0000 ",
         "start_date": "19th Mar 2018",
@@ -6848,7 +6848,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 72%",
+        "distributed": "72%",
         "hard_cap": "$29 500 000",
         "raised": "Unknown",
         "price": "0.4357 ",
@@ -6878,7 +6878,7 @@
             "ZEC",
             "ETC"
         ],
-        "distributed": "in ICO 68%",
+        "distributed": "68%",
         "raised": "$3,786,43378.55700000 BTC111.00000000 ETH3.51840000 LTC0.50000000 DASH33,000.00000000 WAVES",
         "price": "1.0000 ",
         "start_date": "10th Oct 2017",
@@ -6902,7 +6902,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "10,000,000 ASET",
         "hard_cap": "150,000,000 ASET",
         "raised": "$4,191,365",
@@ -6928,7 +6928,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "hard_cap": "32,000,000 USD",
         "raised": "Unknown",
         "price": "1  = 0.00055 ",
@@ -6960,7 +6960,7 @@
             "ZEC",
             "Fiat"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "2.1255 ",
         "start_date": "15th Sep 2017",
@@ -6987,7 +6987,7 @@
             "Waves",
             "Fiat"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "100000 USD",
         "hard_cap": "2000000 USD",
         "raised": "Unknown",
@@ -7016,7 +7016,7 @@
             "DASH",
             "BCC"
         ],
-        "distributed": "in ICO 83%",
+        "distributed": "83%",
         "hard_cap": "42500000 USD",
         "raised": "$2,200,000",
         "price": "1.0000 ",
@@ -7042,7 +7042,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 76.31 %",
+        "distributed": "76.31 %",
         "soft_cap": "700,000 BETX",
         "hard_cap": "10,000,000 BETX",
         "raised": "$4,247,64313,614.00000000 ETH",
@@ -7068,7 +7068,7 @@
         "accepting": [
             "BTC"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "soft_cap": "400 BTC",
         "hard_cap": "1,903 BTC",
         "raised": "Unknown",
@@ -7114,7 +7114,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 45%",
+        "distributed": "45%",
         "soft_cap": "9,000 ETH",
         "hard_cap": "27,000 ETH",
         "raised": "Unknown",
@@ -7134,7 +7134,7 @@
             "Vision": "4.2",
             "Product": "3.6"
         },
-        "distributed": "in ICO ~74,9%",
+        "distributed": "~74,9%",
         "hard_cap": "350,500,000 USD",
         "raised": "$12,520,000",
         "price": "0.6000 ",
@@ -7161,7 +7161,7 @@
             "LTC",
             "Fiat"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "Unknown",
         "price": "8.1392 ",
         "start_date": "21st Sep 2017",
@@ -7204,7 +7204,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "raised": "Unknown",
         "price": "0.0140 ",
         "start_date": "23rd Apr 2018",
@@ -7228,7 +7228,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "soft_cap": "12,000,000 USD",
         "hard_cap": "30,000,000 USD",
         "raised": "$152,598",
@@ -7276,7 +7276,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "1,500 ETH",
         "raised": "Unknown",
         "price": "7.0200 ",
@@ -7302,7 +7302,7 @@
             "LTC",
             "DASH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "24000 ETH",
         "raised": "Unknown",
         "price": "0.5500 ",
@@ -7326,7 +7326,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "hard_cap": "27,625,000 USD",
         "raised": "Unknown",
         "price": "1  = 0.075 ",
@@ -7378,7 +7378,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "20 000 000 CLASSYCOIN",
         "hard_cap": "100 000 000 CLASSYCOIN",
         "raised": "Unknown",
@@ -7406,7 +7406,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "hard_cap": "3 400 000 EUR",
         "raised": "Unknown",
         "price": "0.2300 ",
@@ -7428,7 +7428,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 68%",
+        "distributed": "68%",
         "raised": "Unknown",
         "price": "0.0120 ",
         "start_date": "27th Dec 2017",
@@ -7451,7 +7451,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 42%",
+        "distributed": "42%",
         "soft_cap": "1000000 USD",
         "hard_cap": "15000000 USD",
         "raised": "Unknown",
@@ -7474,7 +7474,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 74%",
+        "distributed": "74%",
         "soft_cap": "400 ETH",
         "hard_cap": "5,968 ETH",
         "raised": "Unknown",
@@ -7500,7 +7500,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "2,000,000 USD",
         "hard_cap": "5,000,000 USD",
         "raised": "Unknown",
@@ -7601,7 +7601,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 21,4 %",
+        "distributed": "21,4 %",
         "soft_cap": "10,000,000 USD",
         "hard_cap": "60,360,000 USD",
         "raised": "$11,968,000",
@@ -7625,7 +7625,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "hard_cap": "40000 ETH",
         "raised": "Unknown",
         "price": "0.0049 ",
@@ -7673,7 +7673,7 @@
             "BCH",
             "LTC"
         ],
-        "distributed": "in ICO 10%",
+        "distributed": "10%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "2nd Apr 2018",
@@ -7691,7 +7691,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "$4,300,0000.00000000 ETH",
         "price": "0.0004 ",
         "start_date": "12th Jul 2017",
@@ -7714,7 +7714,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 95 %",
+        "distributed": "95 %",
         "hard_cap": "7500000 USD",
         "raised": "$3,000,000",
         "price": "1  = 0.85 ",
@@ -7740,7 +7740,7 @@
             "BTC",
             "LTC"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "3,000,000 USD",
         "hard_cap": "10,500,000 USD",
         "raised": "Unknown",
@@ -7764,7 +7764,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 51%",
+        "distributed": "51%",
         "soft_cap": "3000000 USD",
         "hard_cap": "76,500 ETH",
         "raised": "$21,000,000",
@@ -7787,7 +7787,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "300 ETH",
         "hard_cap": "1000 ETH",
         "raised": "Unknown",
@@ -7814,7 +7814,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "0.2000 ",
         "start_date": "22nd Jan 2018",
@@ -7837,7 +7837,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "40000 ETH",
         "hard_cap": "200000 ETH",
         "raised": "$20,000,000",
@@ -7865,7 +7865,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 10%",
+        "distributed": "10%",
         "raised": "Unknown",
         "price": "0.0500 ",
         "start_date": "14th May 2018",
@@ -7989,7 +7989,7 @@
             "NEO",
             "LTC"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "hard_cap": "100,000,000 USD",
         "raised": "Unknown",
         "price": "0.3300 ",
@@ -8011,7 +8011,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "Unknown",
         "price": "0.1500 ",
         "start_date": "1st Nov 2017",
@@ -8035,7 +8035,7 @@
             "LTC",
             "DASH"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "hard_cap": "35,000,000 USD",
         "raised": "Unknown",
         "price": "1.0000 ",
@@ -8059,7 +8059,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "raised": "Unknown1,115.02509356 ETH",
         "price": "0.2036 ",
         "start_date": "25th Jun 2017",
@@ -8085,7 +8085,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "3000000 USD",
         "hard_cap": "25000000 GFXT",
         "raised": "$3,000,000",
@@ -8108,7 +8108,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "raised": "Unknown",
         "price": "0.1000 ",
         "start_date": "15th Dec 2017",
@@ -8129,7 +8129,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 87%",
+        "distributed": "87%",
         "soft_cap": "300,000 USD",
         "hard_cap": "2,000,000 USD",
         "raised": "Unknown",
@@ -8157,7 +8157,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 62%",
+        "distributed": "62%",
         "raised": "Unknown24.26103431 ETH",
         "price": "1.0000 ",
         "start_date": "11th Aug 2017",
@@ -8180,7 +8180,7 @@
             "BTC",
             "LTC"
         ],
-        "distributed": "in ICO 35%",
+        "distributed": "35%",
         "hard_cap": "16,000,000 USD",
         "raised": "$17,400,000",
         "price": "0.1500 ",
@@ -8219,7 +8219,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "Unknown",
         "price": "0.2629 ",
         "start_date": "8th Sep 2017",
@@ -8289,7 +8289,7 @@
             "BTC",
             "Fiat"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "500 ETH",
         "hard_cap": "100,000 ETH",
         "raised": "Unknown",
@@ -8312,7 +8312,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 25%",
+        "distributed": "25%",
         "soft_cap": "5,500 ETH",
         "hard_cap": "13,750 ETH",
         "raised": "Unknown",
@@ -8338,7 +8338,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "2,000,000 KLT",
         "hard_cap": "10,000,000 KLT",
         "raised": "$37,378,158",
@@ -8362,7 +8362,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 88%",
+        "distributed": "88%",
         "soft_cap": "500,000 USD",
         "hard_cap": "1,200,000 USD",
         "raised": "$656,800",
@@ -8410,7 +8410,7 @@
         "accepting": [
             "BTC"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "raised": "$1,100,000193.57000000 BTC",
         "price": "14.2465 ",
         "start_date": "15th Sep 2017",
@@ -8452,7 +8452,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "raised": "Unknown",
         "price": "1000  =  1 ",
         "start_date": "4th Apr 2018",
@@ -8492,7 +8492,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "soft_cap": "1000000 USD",
         "hard_cap": "4000000 USD",
         "raised": "Unknown",
@@ -8597,7 +8597,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 100%",
+        "distributed": "100%",
         "hard_cap": "250,000,000 USD",
         "raised": "Unknown",
         "price": "0.0010 ",
@@ -8620,7 +8620,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 69.3%",
+        "distributed": "69.3%",
         "raised": "Unknown",
         "price": "0.3400 ",
         "start_date": "1st May 2018",
@@ -8643,7 +8643,7 @@
             "BTC",
             "Fiat"
         ],
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "raised": "$15,000,000",
         "price": "1  = 7.5 ",
         "start_date": "1st Apr 2018",
@@ -8707,7 +8707,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "28,000,000 USD",
         "raised": "Unknown",
         "price": "1  = 0.047 ",
@@ -8729,7 +8729,7 @@
             "Vision": "3.0",
             "Product": "3.0"
         },
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "raised": "Unknown",
         "price": "0.0844 ",
         "start_date": "11th Feb 2018",
@@ -8768,7 +8768,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "$145,000,000485,331.00000000 ETH",
         "price": "32.0000 ",
         "start_date": "15th Oct 2017",
@@ -8845,7 +8845,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 35%",
+        "distributed": "35%",
         "soft_cap": "17,000,000 USD",
         "hard_cap": "25,000,000 USD",
         "raised": "Unknown",
@@ -8865,7 +8865,7 @@
             "Vision": "3.1",
             "Product": "3.1"
         },
-        "distributed": "in ICO 67%",
+        "distributed": "67%",
         "raised": "Unknown",
         "price": "2.1162 ",
         "start_date": "1st Jan 2018",
@@ -8906,7 +8906,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "6,000 ETH",
         "hard_cap": "40,000 ETH",
         "raised": "Unknown",
@@ -8932,7 +8932,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "2,000,000 USD",
         "hard_cap": "60,000,000 USD",
         "raised": "$2,207,397",
@@ -8960,7 +8960,7 @@
             "XMR",
             "Fiat"
         ],
-        "distributed": "in ICO 14 %",
+        "distributed": "14 %",
         "soft_cap": "1,000,000 USD",
         "hard_cap": "5,000,000 USD",
         "raised": "Unknown",
@@ -8985,7 +8985,7 @@
             "ETH",
             "USD"
         ],
-        "distributed": "in ICO 63%",
+        "distributed": "63%",
         "raised": "Unknown",
         "price": "0.0500 ",
         "start_date": "10th Mar 2018",
@@ -9010,7 +9010,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "50,000 ETH",
         "hard_cap": "186,000 ETH",
         "raised": "Unknown",
@@ -9035,7 +9035,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "3,000 ETH",
         "hard_cap": "10,000 ETH",
         "raised": "Unknown",
@@ -9059,7 +9059,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 79.37%",
+        "distributed": "79.37%",
         "raised": "Unknown",
         "price": "0.3068 ",
         "start_date": "16th Oct 2017",
@@ -9081,7 +9081,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "soft_cap": "1000 ETH",
         "hard_cap": "11500 ETH",
         "raised": "Unknown",
@@ -9109,7 +9109,7 @@
             "LTC",
             "DASH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "7,000,000 USD",
         "hard_cap": "14,200,000 USD",
         "raised": "$4,274,582",
@@ -9133,7 +9133,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 76%",
+        "distributed": "76%",
         "hard_cap": "300,000 ETH",
         "raised": "Unknown",
         "price": "3.3120 ",
@@ -9156,7 +9156,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 72%",
+        "distributed": "72%",
         "hard_cap": "36,000,000 USD",
         "raised": "Unknown",
         "price": "1  = 0.10  ",
@@ -9204,7 +9204,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 57%",
+        "distributed": "57%",
         "hard_cap": "5000 ETH",
         "raised": "Unknown",
         "price": "0.0233 ",
@@ -9244,7 +9244,7 @@
             "Vision": "1.0",
             "Product": "1.0"
         },
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "6.000 ETH",
         "raised": "Unknown",
         "start_date": "15th Feb 2018",
@@ -9299,7 +9299,7 @@
             "Product": "4.0"
         },
         "min_investment": "10 USD",
-        "distributed": "in ICO 32%",
+        "distributed": "32%",
         "soft_cap": "10,000,000 USD",
         "hard_cap": "50,000,000 USD",
         "raised": "$22,300,000",
@@ -9322,7 +9322,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "20000 ETH",
         "raised": "Unknown",
         "price": "1  = 25000 ",
@@ -9369,7 +9369,7 @@
             "BCH",
             "LTC"
         ],
-        "distributed": "in ICO 72%",
+        "distributed": "72%",
         "raised": "$567,562",
         "price": "2.2500 ",
         "start_date": "18th Oct 2017",
@@ -9392,7 +9392,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "raised": "Unknown",
         "price": "1.3300 ",
         "start_date": "1st Dec 2017",
@@ -9414,7 +9414,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 55 %",
+        "distributed": "55 %",
         "raised": "Unknown",
         "price": "1  = 0.5 ",
         "start_date": "29th Mar 2018",
@@ -9438,7 +9438,7 @@
             "LTC",
             "Dash"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "raised": "$737,773",
         "price": "1  = 500 ",
         "start_date": "25th Jan 2018",
@@ -9484,7 +9484,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 81%",
+        "distributed": "81%",
         "raised": "Unknown",
         "price": "2.5000 ",
         "start_date": "15th Jun 2018",
@@ -9503,7 +9503,7 @@
             "Vision": "3.0",
             "Product": "2.7"
         },
-        "distributed": "in ICO 68%",
+        "distributed": "68%",
         "soft_cap": "10000000 USD",
         "hard_cap": "100000000 USD",
         "raised": "$10,000,000",
@@ -9570,7 +9570,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "hard_cap": "10,000,000 USD",
         "raised": "$5,401,552",
         "price": "0.1039 ",
@@ -9595,7 +9595,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "5,000,000 USD",
         "hard_cap": "25,000,000 USD",
         "raised": "$20,000,000",
@@ -9684,7 +9684,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "3.9000 ",
         "start_date": "25th Jan 2018",
@@ -9705,7 +9705,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 33.3%",
+        "distributed": "33.3%",
         "hard_cap": "100,000,000 USD",
         "raised": "Unknown",
         "price": "0.1000 ",
@@ -9728,7 +9728,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "raised": "Unknown",
         "price": "0.1000 ",
         "start_date": "10th Jul 2018",
@@ -9766,7 +9766,7 @@
             "Vision": "1.0",
             "Product": "1.0"
         },
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "Unknown",
         "price": "2.3000 ",
         "start_date": "24th Apr 2018",
@@ -9798,7 +9798,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "7,000,000 USD",
         "hard_cap": "19,000,000 USD",
         "raised": "$19,000,000",
@@ -9845,7 +9845,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "3,500,000 USD",
         "hard_cap": "17,500,000 USD",
         "raised": "Unknown",
@@ -9871,7 +9871,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "soft_cap": "10,000 ETH",
         "hard_cap": "30,000 ETH",
         "raised": "$23,904,650",
@@ -9895,7 +9895,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "500,000 USD",
         "hard_cap": "7,000,000 USD",
         "raised": "Unknown",
@@ -10009,7 +10009,7 @@
             "BTC",
             "BCH"
         ],
-        "distributed": "in ICO ~96.6%",
+        "distributed": "~96.6%",
         "hard_cap": "11,600,000 CRN",
         "raised": "Unknown",
         "price": "0.2279 ",
@@ -10035,7 +10035,7 @@
             "ETH",
             "DASH"
         ],
-        "distributed": "in ICO 5%",
+        "distributed": "5%",
         "soft_cap": "25,000 USD",
         "hard_cap": "900,000 USD",
         "raised": "Unknown",
@@ -10058,7 +10058,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "hard_cap": "27,500,000 USD",
         "raised": "Unknown",
         "price": "0.5230 ",
@@ -10083,7 +10083,7 @@
             "LTC",
             "Fiat"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "24,000,000 USD",
         "raised": "Unknown",
         "price": "0.2000 ",
@@ -10108,7 +10108,7 @@
             "BTC",
             "XRP"
         ],
-        "distributed": "in ICO 25%",
+        "distributed": "25%",
         "soft_cap": "1,000,000 USD",
         "hard_cap": "3,750,000 USD",
         "raised": "Unknown",
@@ -10177,7 +10177,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "500000 CTN",
         "hard_cap": "10500000 CTN",
         "raised": "Unknown",
@@ -10203,7 +10203,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "raised": "$55,697",
         "price": "0.9280 ",
         "start_date": "20th Dec 2017",
@@ -10231,7 +10231,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "600,000 USD",
         "hard_cap": "8,000,000 USD",
         "raised": "$50,000",
@@ -10277,7 +10277,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "hard_cap": "300000 USD",
         "raised": "$90,96185.01000000 ETH",
         "price": "0.9080 ",
@@ -10300,7 +10300,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "Unknown",
         "price": "0.0500 ",
         "start_date": "26th Apr 2018",
@@ -10322,7 +10322,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 42%",
+        "distributed": "42%",
         "raised": "Unknown",
         "price": "0.0000 ",
         "start_date": "1st Jun 2018",
@@ -10370,7 +10370,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "10,000,000 USD",
         "raised": "Unknown",
         "price": "0.3110 ",
@@ -10399,7 +10399,7 @@
             "ETH",
             "Various"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "5,000 ETH",
         "hard_cap": "22,550 ETH",
         "raised": "Unknown",
@@ -10450,7 +10450,7 @@
             "ETH",
             "USD"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "raised": "$8,823,281",
         "price": "0.1963 ",
         "start_date": "30th Jan 2018",
@@ -10493,7 +10493,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO  41.9%",
+        "distributed": " 41.9%",
         "raised": "Unknown",
         "price": "1  = 6 ",
         "start_date": "19th Mar 2018",
@@ -10514,7 +10514,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 20%",
+        "distributed": "20%",
         "soft_cap": "1,000 ETH",
         "hard_cap": "70,000 ETH",
         "raised": "$1,163,100",
@@ -10535,7 +10535,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 72%",
+        "distributed": "72%",
         "raised": "$1,000,000",
         "price": "1  = 0.04 ",
         "start_date": "2nd Feb 2018",
@@ -10556,7 +10556,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "$10,374,758",
         "price": "0.3401 ",
         "start_date": "1st Mar 2018",
@@ -10578,7 +10578,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "soft_cap": "5,000,000 USD",
         "raised": "Unknown",
         "price": "0.5440 ",
@@ -10599,7 +10599,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 28%",
+        "distributed": "28%",
         "soft_cap": "1 000 000 USDT",
         "raised": "Unknown",
         "price": "0.8000 ",
@@ -10622,7 +10622,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "4,000,000 ETH",
         "raised": "$10,000,000",
         "price": "0.6850 ",
@@ -10648,7 +10648,7 @@
             "ZEC",
             "Fiat"
         ],
-        "distributed": "in ICO 10%",
+        "distributed": "10%",
         "raised": "$257,000,000",
         "price": "0.7500 ",
         "start_date": "10th Aug 2017",
@@ -10670,7 +10670,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "hard_cap": "32 500 000 SET",
         "raised": "Unknown",
         "price": "1  = 2000 ",
@@ -10714,7 +10714,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 51%",
+        "distributed": "51%",
         "soft_cap": "1 000 000 USD",
         "hard_cap": "7 000 000 USD",
         "raised": "Unknown",
@@ -10801,7 +10801,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "0.2580 ",
         "start_date": "18th Feb 2018",
@@ -10824,7 +10824,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 62%",
+        "distributed": "62%",
         "soft_cap": "2,500 ETH",
         "hard_cap": "25,000 ETH",
         "raised": "$4,600,000",
@@ -10868,7 +10868,7 @@
             "BCH",
             "LTC"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "hard_cap": "36,000 ETH",
         "raised": "$1,731,267",
         "price": "0.0692 ",
@@ -10931,7 +10931,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "hard_cap": "5000000 USD",
         "raised": "Unknown",
         "price": "0.1462 ",
@@ -10957,7 +10957,7 @@
             "LTC",
             "BCH"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "hard_cap": "650,000,000 HUYU",
         "raised": "Unknown",
         "price": "0.0240 ",
@@ -11077,7 +11077,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "raised": "Unknown",
         "price": "1  = 0.00036 ",
         "start_date": "10th Apr 2018",
@@ -11098,7 +11098,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "raised": "Unknown",
         "price": "2.7000 ",
         "start_date": "14th Feb 2018",
@@ -11116,7 +11116,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "5,250,000 USD",
         "hard_cap": "23,159,500 USD",
         "raised": "Unknown",
@@ -11143,7 +11143,7 @@
         "accepting": [
             "XLM"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "1,150,000 XLM",
         "hard_cap": "14,000,000 XLM",
         "raised": "Unknown",
@@ -11212,7 +11212,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "raised": "Unknown",
         "price": "0.0915 ",
         "start_date": "15th Dec 2017",
@@ -11234,7 +11234,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 67%",
+        "distributed": "67%",
         "raised": "Unknown",
         "price": "0.2320 ",
         "start_date": "12th Jan 2018",
@@ -11279,7 +11279,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 82.5%",
+        "distributed": "82.5%",
         "hard_cap": "5 000 000 USD",
         "raised": "Unknown",
         "price": "0.0200 ",
@@ -11344,7 +11344,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "soft_cap": "5000000 USD",
         "hard_cap": "30000000 USD",
         "raised": "Unknown",
@@ -11383,7 +11383,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "5,000 ETH",
         "hard_cap": "20,000 ETH",
         "raised": "Unknown",
@@ -11455,7 +11455,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "4000 ETH",
         "hard_cap": "15,000,000 USD",
         "raised": "Unknown",
@@ -11482,7 +11482,7 @@
             "BTC",
             "Fiat"
         ],
-        "distributed": "in ICO 83.4%",
+        "distributed": "83.4%",
         "raised": "Unknown",
         "price": "1  = 0.05 ",
         "start_date": "23rd Jan 2018",
@@ -11507,7 +11507,7 @@
         "accepting": [
             "BTC"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "500 BTC",
         "hard_cap": "1200 BTC",
         "raised": "$1,533,060",
@@ -11531,7 +11531,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 73%",
+        "distributed": "73%",
         "soft_cap": "500000 USD",
         "hard_cap": "40000000 USD",
         "raised": "Unknown",
@@ -11572,7 +11572,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "50 ETH",
         "hard_cap": "250 ETH",
         "raised": "$36,126",
@@ -11620,7 +11620,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "2,000 ETH",
         "hard_cap": "25,000 ETH",
         "raised": "Unknown",
@@ -11641,7 +11641,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "Unknown",
         "price": "0.3600 ",
         "start_date": "12th Dec 2017",
@@ -11666,7 +11666,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 25%",
+        "distributed": "25%",
         "soft_cap": "1000000  USD",
         "hard_cap": "10000000 USD",
         "raised": "Unknown",
@@ -11733,7 +11733,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "$4,300,00013,039.00000000 ETH",
         "price": "0.4748 ",
         "start_date": "31st Jul 2017",
@@ -11796,7 +11796,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "10,000 ETH",
         "hard_cap": "800,000 ETH",
         "raised": "Unknown",
@@ -11881,7 +11881,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "raised": "Unknown",
         "price": "0.0010 ",
         "start_date": "3rd Apr 2018",
@@ -11903,7 +11903,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "hard_cap": "20,000 ETH",
         "raised": "Unknown",
         "price": "0.0580 ",
@@ -11927,7 +11927,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "soft_cap": "25000 ETH",
         "hard_cap": "68750 ETH",
         "raised": "Unknown",
@@ -11953,7 +11953,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "soft_cap": "840.000 STY",
         "hard_cap": "200.000.000 STY",
         "raised": "Unknown",
@@ -11981,7 +11981,7 @@
             "LTC",
             "BCH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "1,800,000 USD",
         "hard_cap": "22,000,000 USD",
         "raised": "$21,000,000",
@@ -12008,7 +12008,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "hard_cap": "100,000,000 SVC",
         "raised": "Unknown",
         "price": "0.1980 ",
@@ -12033,7 +12033,7 @@
             "ETH",
             "BTC and Altcoins"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "6 400 000 SYC",
         "raised": "$370,120",
         "price": "0.3800 ",
@@ -12096,7 +12096,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "raised": "$5,000,000",
         "price": "0.3500 ",
         "start_date": "22nd Mar 2018",
@@ -12119,7 +12119,7 @@
             "ETH",
             "WAVES"
         ],
-        "distributed": "in ICO 49%",
+        "distributed": "49%",
         "raised": "$150,000",
         "price": "1.0000 ",
         "start_date": "26th Aug 2017",
@@ -12138,7 +12138,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 37%",
+        "distributed": "37%",
         "soft_cap": "20,000 ETH",
         "hard_cap": "66,900 ETH",
         "raised": "$8,000,00019,195.00000000 ETH",
@@ -12185,7 +12185,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "5000 \u200bETH",
         "hard_cap": "60000 \u200bETH",
         "raised": "Unknown",
@@ -12214,7 +12214,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "2500 ETH",
         "raised": "Unknown",
         "price": "0.0028 ",
@@ -12237,7 +12237,7 @@
             "BTC",
             "Various"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "$4,500,000",
         "start_date": "5th Jul 2017",
         "end_date": "15th Aug 2017"
@@ -12306,7 +12306,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "raised": "Unknown",
         "price": "0.5238 ",
         "start_date": "26th Feb 2018",
@@ -12328,7 +12328,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "100000000 USD",
         "raised": "$18,934,021",
         "price": "0.1000 ",
@@ -12349,7 +12349,7 @@
             "Product": "-"
         },
         "min_investment": "0.134 ETH",
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "raised": "Unknown",
         "price": "0.4704 ",
         "start_date": "24th Oct 2017",
@@ -12372,7 +12372,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "hard_cap": "12000000 USD",
         "raised": "$8,700,0004.00000000 ETH",
         "price": "0.1400 ",
@@ -12400,7 +12400,7 @@
             "DASH",
             "Fiat"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "Unknown",
         "price": "0.1000 ",
         "start_date": "20th Feb 2018",
@@ -12448,7 +12448,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 25%",
+        "distributed": "25%",
         "soft_cap": "194444444 WWB",
         "hard_cap": "277777778 WWB",
         "raised": "Unknown",
@@ -12515,7 +12515,7 @@
             "BCC",
             "WAVES"
         ],
-        "distributed": "in ICO 98%",
+        "distributed": "98%",
         "hard_cap": "4,750,000 USD",
         "raised": "Unknown",
         "price": "0.0500 ",
@@ -12583,7 +12583,7 @@
             "LTC",
             "Fiat"
         ],
-        "distributed": "in ICO 76%",
+        "distributed": "76%",
         "soft_cap": "3,000,000 USD",
         "hard_cap": "15,000,000 USD",
         "raised": "$2,304,106",
@@ -12629,7 +12629,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 45%",
+        "distributed": "45%",
         "raised": "Unknown",
         "price": "0.0577 ",
         "start_date": "1st Mar 2018",
@@ -12695,7 +12695,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "7,500,000 ATT",
         "hard_cap": "90,000,000 ATT",
         "raised": "Unknown",
@@ -12811,7 +12811,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 88%",
+        "distributed": "88%",
         "soft_cap": "6,000,000 USD",
         "hard_cap": "18,000,000 USD",
         "raised": "Unknown",
@@ -12897,7 +12897,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 94%",
+        "distributed": "94%",
         "soft_cap": "4,000,000 USD",
         "hard_cap": "10,350,000 USD",
         "raised": "Unknown",
@@ -12943,7 +12943,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "hard_cap": "21,000,000 USD",
         "raised": "Unknown",
         "start_date": "1st Nov 2017",
@@ -13021,7 +13021,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "14500 ETH",
         "hard_cap": "32700 ETH",
         "raised": "Unknown",
@@ -13067,7 +13067,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 28%",
+        "distributed": "28%",
         "soft_cap": "1,500,000 EMY",
         "raised": "Unknown",
         "price": "0.5000 ",
@@ -13133,7 +13133,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "raised": "Unknown",
         "price": "0.5120 ",
         "start_date": "2nd Apr 2018",
@@ -13154,7 +13154,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "hard_cap": "10000 ETH",
         "raised": "Unknown",
         "price": "0.1980 ",
@@ -13200,7 +13200,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "hard_cap": "650,000,000 FDM",
         "raised": "Unknown",
         "price": "0.0750 ",
@@ -13247,7 +13247,7 @@
             "BCH",
             "DASH"
         ],
-        "distributed": "in ICO 66%",
+        "distributed": "66%",
         "soft_cap": "10,000,000 USD",
         "hard_cap": "50,000,000 USD",
         "raised": "Unknown",
@@ -13267,7 +13267,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "hard_cap": "8000 ETH",
         "raised": "Unknown",
         "price": "1  = 100 ",
@@ -13290,7 +13290,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "$500,000",
         "price": "0.9000 ",
         "start_date": "15th Feb 2018",
@@ -13333,7 +13333,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "4.5200 ",
         "start_date": "1st Dec 2017",
@@ -13358,7 +13358,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "5,500 ETH",
         "hard_cap": "25,000 ETH",
         "raised": "Unknown",
@@ -13386,7 +13386,7 @@
             "ZEC",
             "WAVES"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "hard_cap": "30,000,000 USD",
         "raised": "Unknown",
         "price": "20.0000 ",
@@ -13410,7 +13410,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "hard_cap": "20000000 HPLUS",
         "raised": "Unknown",
         "price": "0.4000 ",
@@ -13506,7 +13506,7 @@
             "LTC",
             "Various"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "$11,315,843",
         "price": "5.0000 ",
         "start_date": "30th Jan 2018",
@@ -13527,7 +13527,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "raised": "$1,050,000",
         "start_date": "1st Sep 2017",
         "end_date": "22nd Oct 2017"
@@ -13544,7 +13544,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "hard_cap": "7500000 EUR",
         "raised": "Unknown",
         "price": "0.5800 ",
@@ -13592,7 +13592,7 @@
             "Fiat",
             "XMR"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "28th Jun 2017",
@@ -13616,7 +13616,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 74%",
+        "distributed": "74%",
         "raised": "Unknown",
         "price": "0.0260 ",
         "start_date": "1st Mar 2018",
@@ -13640,7 +13640,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "210,000 ETH",
         "raised": "$2,245,250",
         "price": "2300  = 1 ",
@@ -13664,7 +13664,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "raised": "Unknown",
         "price": "0.0800 ",
         "start_date": "22nd Nov 2017",
@@ -13709,7 +13709,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "soft_cap": "1300000 USD",
         "hard_cap": "12000000 USD",
         "raised": "Unknown",
@@ -13750,7 +13750,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "0.2166 ",
         "start_date": "10th Jan 2018",
@@ -13834,7 +13834,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 100%",
+        "distributed": "100%",
         "hard_cap": "6000000000 PNG",
         "raised": "Unknown",
         "price": "0.0004 ",
@@ -13879,7 +13879,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "6,000,000 USD",
         "raised": "Unknown",
         "price": "0.0045 ",
@@ -13949,7 +13949,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "soft_cap": "4 000 000 PYX",
         "hard_cap": "24 000 000 PYX",
         "raised": "Unknown",
@@ -13970,7 +13970,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "hard_cap": "1 900 000 EUR",
         "raised": "$647,314",
         "price": "0.1160 ",
@@ -13992,7 +13992,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "soft_cap": "40,000,000 RFL",
         "hard_cap": "80,000,000 RFL",
         "raised": "Unknown",
@@ -14012,7 +14012,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 48.75%",
+        "distributed": "48.75%",
         "soft_cap": "4 000 ETH",
         "raised": "Unknown",
         "price": "0.7591 ",
@@ -14036,7 +14036,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "Unknown",
         "price": "0.2500 ",
         "start_date": "15th Oct 2017",
@@ -14072,7 +14072,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "raised": "Unknown",
         "price": "1.1600 ",
         "start_date": "10th Mar 2018",
@@ -14117,7 +14117,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "200000 ETH",
         "raised": "Unknown",
         "price": "0.3808 ",
@@ -14139,7 +14139,7 @@
             "Product": "-"
         },
         "min_investment": "0.10 ETH",
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "500000 USD",
         "hard_cap": "30000000 USD",
         "raised": "Unknown",
@@ -14203,7 +14203,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 67%",
+        "distributed": "67%",
         "raised": "$20,711,41254,086.00000000 ETH",
         "price": "0.0518 ",
         "start_date": "15th Jul 2017",
@@ -14227,7 +14227,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 82%",
+        "distributed": "82%",
         "soft_cap": "5,000 ETH",
         "hard_cap": "41,000 ETH",
         "raised": "$1,076,843",
@@ -14250,7 +14250,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "raised": "Unknown",
         "price": "0.0045 ",
         "start_date": "28th Feb 2018",
@@ -14271,7 +14271,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "hard_cap": "63,000 ETH",
         "raised": "Unknown",
         "price": "2.4900 ",
@@ -14298,7 +14298,7 @@
             "ETH",
             "LTC"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "22,000,000 USD",
         "raised": "Unknown",
         "price": "0.0250 ",
@@ -14320,7 +14320,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 66.66%",
+        "distributed": "66.66%",
         "soft_cap": "50,000 USD",
         "hard_cap": "40 000 000 USD",
         "raised": "Unknown",
@@ -14346,7 +14346,7 @@
             "ETC",
             "LTC"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "hard_cap": "1,480,000 USD",
         "raised": "Unknown",
         "price": "0.0080 ",
@@ -14365,7 +14365,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "soft_cap": "1.000.000 WIT (pre-sale)",
         "hard_cap": "8.000.000 WIT",
         "raised": "Unknown",
@@ -14392,7 +14392,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "hard_cap": "13,333,333 USDT",
         "raised": "Unknown",
         "price": "0.0330 ",
@@ -14415,7 +14415,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "20,000 ETH",
         "raised": "Unknown",
         "price": "0.8005 ",
@@ -14479,7 +14479,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "$15,342",
         "price": "0.0800 ",
         "start_date": "18th Aug 2017",
@@ -14524,7 +14524,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 57%",
+        "distributed": "57%",
         "hard_cap": "50000 ETH",
         "raised": "$5,000,000",
         "price": "0.2110 ",
@@ -14578,7 +14578,7 @@
             "ETH",
             "LTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "90,000 ETH",
         "raised": "Unknown",
         "price": "0.6930 ",
@@ -14654,7 +14654,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "5,000 ETH",
         "hard_cap": "35,000 ETH",
         "raised": "Unknown",
@@ -14677,7 +14677,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "3,000 ETH",
         "hard_cap": "95,000 ETH",
         "raised": "Unknown",
@@ -14701,7 +14701,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 81",
+        "distributed": "81",
         "raised": "Unknown",
         "price": "0.1000 ",
         "start_date": "15th Nov 2017",
@@ -14722,7 +14722,7 @@
         "accepting": [
             "WAVES"
         ],
-        "distributed": "in ICO 82%",
+        "distributed": "82%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "13th Oct 2017",
@@ -14767,7 +14767,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "120 000 000 USD",
         "hard_cap": "3 500 000 USD",
         "raised": "Unknown",
@@ -14819,7 +14819,7 @@
             "LTC",
             "Various"
         ],
-        "distributed": "in ICO 73%",
+        "distributed": "73%",
         "soft_cap": "2000000 USD",
         "hard_cap": "55000000 USD",
         "raised": "Unknown",
@@ -14844,7 +14844,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "1500 ETH",
         "raised": "Unknown",
         "price": "2.9200 ",
@@ -14887,7 +14887,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 57%",
+        "distributed": "57%",
         "raised": "Unknown",
         "price": "1  = 7 ",
         "start_date": "1st Dec 2017",
@@ -14908,7 +14908,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "hard_cap": "3,600 ETH",
         "raised": "Unknown",
         "price": "1  = 0.0012 ",
@@ -14951,7 +14951,7 @@
             "Vision": "3.7",
             "Product": "2.3"
         },
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "raised": "$8,100,000",
         "price": "1  = 0.1215 ",
         "start_date": "16th Feb 2018",
@@ -14972,7 +14972,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "raised": "Unknown",
         "start_date": "15th Sep 2017",
         "end_date": "15th Oct 2017"
@@ -15015,7 +15015,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "Unknown",
         "price": "1  = 1 ",
         "start_date": "16th Mar 2018",
@@ -15041,7 +15041,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "500 ETH",
         "raised": "Unknown",
         "price": "0.7573 ",
@@ -15065,7 +15065,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "2000 ETH",
         "hard_cap": "300,000,000 DUEL",
         "raised": "Unknown",
@@ -15089,7 +15089,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "soft_cap": "1,000 ETH",
         "hard_cap": "5,000 ETH",
         "raised": "$100,000",
@@ -15144,7 +15144,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 74%",
+        "distributed": "74%",
         "raised": "Unknown",
         "price": "0.0300 ",
         "start_date": "1st May 2018",
@@ -15183,7 +15183,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50 %",
+        "distributed": "50 %",
         "raised": "Unknown",
         "start_date": "18th Mar 2018",
         "end_date": "25th Mar 2018"
@@ -15205,7 +15205,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40 %",
+        "distributed": "40 %",
         "soft_cap": "50 ETH",
         "hard_cap": "1000 ETH",
         "raised": "Unknown",
@@ -15254,7 +15254,7 @@
             "DASH",
             "DOGE"
         ],
-        "distributed": "in ICO 10 %",
+        "distributed": "10 %",
         "hard_cap": "6,000,000 USD",
         "raised": "Unknown",
         "price": "1  = 0.25 ",
@@ -15279,7 +15279,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "Unknown",
         "price": "0.0000 ",
         "start_date": "26th Dec 2017",
@@ -15301,7 +15301,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 73%",
+        "distributed": "73%",
         "soft_cap": "3,221.476 ETH",
         "hard_cap": "42,953 ETH",
         "raised": "Unknown",
@@ -15324,7 +15324,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "20,000,000 USD",
         "raised": "Unknown",
         "price": "0.2990 ",
@@ -15348,7 +15348,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "$562,680",
         "price": "30.0000 ",
         "start_date": "29th Nov 2017",
@@ -15435,7 +15435,7 @@
             "ETH",
             "LTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "26,000ETH",
         "raised": "Unknown",
         "price": "1.0000 ",
@@ -15458,7 +15458,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 100%",
+        "distributed": "100%",
         "hard_cap": "1500000 EUR",
         "raised": "Unknown",
         "price": "1  = 0.01 ",
@@ -15497,7 +15497,7 @@
             "Vision": "2.0",
             "Product": "1.0"
         },
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "1  = 0.25 ",
         "start_date": "5th Mar 2018",
@@ -15523,7 +15523,7 @@
             "ETH",
             "LTC"
         ],
-        "distributed": "in ICO 64%",
+        "distributed": "64%",
         "raised": "$7,500,000",
         "price": "0.0200 ",
         "start_date": "27th Nov 2017",
@@ -15589,7 +15589,7 @@
         "accepting": [
             "Fiat"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "15,000,000 USD",
         "hard_cap": "250,000,000 USD",
         "raised": "Unknown",
@@ -15637,7 +15637,7 @@
             "DASH",
             "LTC"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "10 000 ETH",
         "hard_cap": "100 000 ETH",
         "raised": "$1,460,182",
@@ -15663,7 +15663,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "200 ETH",
         "hard_cap": "2,000 ETH",
         "raised": "$1,680,300",
@@ -15710,7 +15710,7 @@
             "ETH",
             "WAVES"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "raised": "Unknown",
         "price": "0.1743 ",
         "start_date": "1st Oct 2017",
@@ -15734,7 +15734,7 @@
             "WAVE",
             "ZEC"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "raised": "Unknown",
         "price": "0.0100 ",
         "start_date": "1st Apr 2018",
@@ -15758,7 +15758,7 @@
             "BTC",
             "USD"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "50,000,000 USD",
         "raised": "$6,020,000",
         "price": "1.0000 ",
@@ -15780,7 +15780,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "$5,337,587",
         "price": "3.4100 ",
         "start_date": "6th Jun 2018",
@@ -15807,7 +15807,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "Unknown",
         "price": "0.2500 ",
         "start_date": "15th Mar 2018",
@@ -15825,7 +15825,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 91%",
+        "distributed": "91%",
         "raised": "$5,015,678",
         "start_date": "2nd May 2018",
         "end_date": "5th May 2018"
@@ -15847,7 +15847,7 @@
             "ETH",
             "LTC AND OTHER"
         ],
-        "distributed": "in ICO 67%",
+        "distributed": "67%",
         "soft_cap": "1000000 USD",
         "hard_cap": "8000000 USD",
         "raised": "$50,500",
@@ -15875,7 +15875,7 @@
             "DASH",
             "DOGE"
         ],
-        "distributed": "in ICO 20%",
+        "distributed": "20%",
         "raised": "$619,807182.41000000 BTC",
         "price": "0.1000 ",
         "start_date": "20th Jul 2017",
@@ -15943,7 +15943,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "1,000,000 USD",
         "hard_cap": "15,000,000 USD",
         "raised": "Unknown",
@@ -15964,7 +15964,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "raised": "Unknown",
         "price": "469.8600 ",
         "start_date": "1st Sep 2017",
@@ -16009,7 +16009,7 @@
             "XRP",
             "LTC"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "soft_cap": "5,000,000 USD",
         "hard_cap": "45,000,000 USD",
         "raised": "Unknown",
@@ -16034,7 +16034,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "soft_cap": "1,200,000 USD",
         "hard_cap": "20,000,000 USD",
         "raised": "Unknown",
@@ -16059,7 +16059,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 11%",
+        "distributed": "11%",
         "raised": "Unknown",
         "price": "0.0700 ",
         "start_date": "3rd Nov 2017",
@@ -16102,7 +16102,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "0.3000 ",
         "start_date": "17th Dec 2017",
@@ -16120,7 +16120,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 76%",
+        "distributed": "76%",
         "soft_cap": "7,500,000 USD",
         "hard_cap": "75,800,000 USD",
         "raised": "Unknown",
@@ -16140,7 +16140,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "5,000,000 USD",
         "hard_cap": "33,000,000 USD",
         "raised": "$84,453",
@@ -16201,7 +16201,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "1000000 USD",
         "hard_cap": "15000000 USD",
         "raised": "Unknown",
@@ -16254,7 +16254,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "hard_cap": "21000 ETH",
         "raised": "Unknown",
         "price": "0.6900 ",
@@ -16294,7 +16294,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 25%",
+        "distributed": "25%",
         "raised": "Unknown",
         "price": "0.0100 ",
         "start_date": "1st Mar 2018",
@@ -16338,7 +16338,7 @@
             "ETH",
             "USD"
         ],
-        "distributed": "in ICO 77%",
+        "distributed": "77%",
         "soft_cap": "2 500 000 USD",
         "hard_cap": "24 000 000 USD",
         "raised": "Unknown",
@@ -16364,7 +16364,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "2000000 USD",
         "hard_cap": "10000000 USD",
         "raised": "Unknown",
@@ -16391,7 +16391,7 @@
             "ETH",
             "Fiat"
         ],
-        "distributed": "in ICO 45%",
+        "distributed": "45%",
         "soft_cap": "15,000,000 VPE",
         "hard_cap": "60,000,000 VPE",
         "raised": "Unknown",
@@ -16414,7 +16414,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "Unknown",
         "price": "1.1095 ",
         "start_date": "1st Aug 2017",
@@ -16441,7 +16441,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "25,000,000 USD",
         "hard_cap": "75,000,000 USD",
         "raised": "Unknown",
@@ -16468,7 +16468,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 61%",
+        "distributed": "61%",
         "raised": "$1,924,809",
         "price": "1  = 0.0013 ",
         "start_date": "30th Mar 2018",
@@ -16559,7 +16559,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "hard_cap": "25000000 USD",
         "raised": "$1,250,000",
         "price": "1  = 8500 - 9775 ",
@@ -16584,7 +16584,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "1,000,000 USD",
         "hard_cap": "7,000,000 USD",
         "raised": "$2,754,100",
@@ -16628,7 +16628,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 25%",
+        "distributed": "25%",
         "soft_cap": "5,000 ETH",
         "hard_cap": "50,000 ETH",
         "raised": "Unknown",
@@ -16654,7 +16654,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "soft_cap": "624 ETH",
         "raised": "Unknown",
         "price": "1  = 0.10 ",
@@ -16673,7 +16673,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "hard_cap": "850 000 USD",
         "raised": "Unknown",
         "price": "1  = 7500 ",
@@ -16743,7 +16743,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 83%",
+        "distributed": "83%",
         "soft_cap": "40,000,000 USD",
         "hard_cap": "100,000,000 USD",
         "raised": "Unknown",
@@ -16793,7 +16793,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "0.7600 ",
         "start_date": "17th Jan 2018",
@@ -16817,7 +16817,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 66.25%",
+        "distributed": "66.25%",
         "hard_cap": "20 000 000 USD",
         "raised": "$32,000,000",
         "price": "0.8055 ",
@@ -16869,7 +16869,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "soft_cap": "3,000 ETH",
         "hard_cap": "10,500 ETH",
         "raised": "$5,371,000",
@@ -16894,7 +16894,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 100%",
+        "distributed": "100%",
         "raised": "$3,559,6203,309.00000000 ETH",
         "price": "0.8500 ",
         "start_date": "20th Nov 2017",
@@ -16994,7 +16994,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 96%",
+        "distributed": "96%",
         "soft_cap": "34,000,000 USD",
         "hard_cap": "282,000,000 USD",
         "raised": "Unknown",
@@ -17015,7 +17015,7 @@
             "Product": "-"
         },
         "min_investment": "0.1 ETH",
-        "distributed": "in ICO 35%",
+        "distributed": "35%",
         "soft_cap": "10,000 ETH",
         "hard_cap": "30,000 ETH",
         "raised": "Unknown",
@@ -17040,7 +17040,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 56%",
+        "distributed": "56%",
         "raised": "Unknown",
         "price": "0.5193 ",
         "start_date": "24th Feb 2018",
@@ -17063,7 +17063,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "hard_cap": "20000 ETH",
         "raised": "Unknown",
         "price": "0.3580 ",
@@ -17089,7 +17089,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 8%",
+        "distributed": "8%",
         "soft_cap": "333 ETH",
         "hard_cap": "333 ETH",
         "raised": "Unknown",
@@ -17113,7 +17113,7 @@
         "accepting": [
             "BTC"
         ],
-        "distributed": "in ICO ~55%",
+        "distributed": "~55%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "1st Jan 2018",
@@ -17153,7 +17153,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 51%",
+        "distributed": "51%",
         "raised": "Unknown",
         "price": "0.5300 ",
         "start_date": "15th Apr 2018",
@@ -17196,7 +17196,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "soft_cap": "2,000 ETH",
         "hard_cap": "10,000 ETH",
         "raised": "Unknown",
@@ -17229,7 +17229,7 @@
             "NEM",
             "XRP"
         ],
-        "distributed": "in ICO 10%",
+        "distributed": "10%",
         "hard_cap": "1,000,000 USD",
         "raised": "Unknown",
         "price": "0.0700 ",
@@ -17248,7 +17248,7 @@
             "Vision": "1.0",
             "Product": "1.0"
         },
-        "distributed": "in ICO 76%",
+        "distributed": "76%",
         "soft_cap": "1 500 000 USD",
         "hard_cap": "2 000 000 USD",
         "raised": "Unknown",
@@ -17273,7 +17273,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 100%",
+        "distributed": "100%",
         "raised": "Unknown",
         "price": "0.1683 ",
         "start_date": "15th Sep 2017",
@@ -17295,7 +17295,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "soft_cap": "1 000 ETH",
         "hard_cap": "35 000 ETH",
         "raised": "Unknown",
@@ -17315,7 +17315,7 @@
             "Vision": "3.0",
             "Product": "2.0"
         },
-        "distributed": "in ICO 60 %",
+        "distributed": "60 %",
         "raised": "Unknown",
         "price": "2.0000 ",
         "start_date": "12th Apr 2018",
@@ -17338,7 +17338,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "1,000,000 USD",
         "hard_cap": "15,000,000 USD",
         "raised": "Unknown",
@@ -17418,7 +17418,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "1000000 EUR",
         "hard_cap": "17000000 EUR",
         "raised": "Unknown",
@@ -17445,7 +17445,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "29th Jan 2018",
@@ -17463,7 +17463,7 @@
             "Vision": "5.0",
             "Product": "5.0"
         },
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "0.0671 ",
         "start_date": "1st Jul 2017",
@@ -17485,7 +17485,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 99,5 %",
+        "distributed": "99,5 %",
         "soft_cap": "9,450 ETH",
         "hard_cap": "11,140 ETH",
         "raised": "Unknown",
@@ -17508,7 +17508,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "hard_cap": "95000 ETH",
         "raised": "$1,150,0003,113.00000000 ETH",
         "price": "0.1070 ",
@@ -17578,7 +17578,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "Unknown",
         "start_date": "25th Nov 2017",
         "end_date": "7th Jan 2018"
@@ -17599,7 +17599,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 44%",
+        "distributed": "44%",
         "raised": "Unknown",
         "start_date": "1st Sep 2017",
         "end_date": "6th Oct 2017"
@@ -17621,7 +17621,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 34%",
+        "distributed": "34%",
         "soft_cap": "1500 ETH",
         "hard_cap": "66000 ETH",
         "raised": "Unknown",
@@ -17646,7 +17646,7 @@
             "ETH",
             "BCC"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "raised": "$450,000",
         "price": "10.0000 ",
         "start_date": "12th Sep 2017",
@@ -17706,7 +17706,7 @@
             "Vision": "2.0",
             "Product": "2.0"
         },
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "150000 SMS",
         "raised": "Unknown",
         "price": "237.4880 ",
@@ -17750,7 +17750,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "4.5000 ",
         "start_date": "30th Jan 2018",
@@ -17773,7 +17773,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 90%",
+        "distributed": "90%",
         "soft_cap": "3,000 ETH",
         "hard_cap": "90,000 ETH",
         "raised": "Unknown",
@@ -17799,7 +17799,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "3,000,000 USD",
         "raised": "Unknown",
         "price": "0.6800 ",
@@ -17885,7 +17885,7 @@
         "accepting": [
             "Various"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "1,000,000 USD",
         "hard_cap": "40,000,000 USD",
         "raised": "Unknown",
@@ -17938,7 +17938,7 @@
             "XMR",
             "ZEC"
         ],
-        "distributed": "in ICO 97%",
+        "distributed": "97%",
         "soft_cap": "7,000,000 USD",
         "hard_cap": "15,000,000 US",
         "raised": "Unknown",
@@ -18009,7 +18009,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 10%",
+        "distributed": "10%",
         "raised": "Unknown",
         "price": "1  = 0.0002 ",
         "start_date": "21st Feb 2018",
@@ -18044,7 +18044,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "raised": "Unknown",
         "start_date": "20th Oct 2017",
         "end_date": "20th Nov 2017"
@@ -18185,7 +18185,7 @@
         "accepting": [
             "BTC"
         ],
-        "distributed": "in ICO 25%",
+        "distributed": "25%",
         "raised": "Unknown",
         "price": "1.2189 ",
         "start_date": "6th Feb 2018",
@@ -18246,7 +18246,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "1,000 ETH",
         "hard_cap": "7,000 ETH",
         "raised": "$2,595,076",
@@ -18317,7 +18317,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 83%",
+        "distributed": "83%",
         "raised": "Unknown",
         "price": "1  = 0.5 ",
         "start_date": "20th Apr 2018",
@@ -18339,7 +18339,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 33.33%",
+        "distributed": "33.33%",
         "raised": "Unknown",
         "price": "0.1628 ",
         "start_date": "2nd Oct 2017",
@@ -18361,7 +18361,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO ~83.3%",
+        "distributed": "~83.3%",
         "hard_cap": "19990 ETH",
         "raised": "Unknown",
         "price": "0.0090 ",
@@ -18383,7 +18383,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "250 ETH",
         "hard_cap": "7,500 ETH",
         "raised": "Unknown",
@@ -18403,7 +18403,7 @@
             "Vision": "2.0",
             "Product": "3.0"
         },
-        "distributed": "in ICO 62.5%",
+        "distributed": "62.5%",
         "soft_cap": "1,500,000 USD",
         "hard_cap": "5,000,000 USD",
         "raised": "$92,921",
@@ -18423,7 +18423,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 92%",
+        "distributed": "92%",
         "raised": "Unknown",
         "price": "1.5000 ",
         "start_date": "5th Jan 2018",
@@ -18465,7 +18465,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "75,000,000",
         "hard_cap": "100,000,000",
         "raised": "Unknown",
@@ -18509,7 +18509,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 45%",
+        "distributed": "45%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "22nd Nov 2017",
@@ -18534,7 +18534,7 @@
             "LT\u0421",
             "WAVES"
         ],
-        "distributed": "in ICO 45%",
+        "distributed": "45%",
         "soft_cap": "1500000 USD",
         "raised": "Unknown",
         "price": "0.0562 ",
@@ -18564,7 +18564,7 @@
             "LTC",
             "NEO"
         ],
-        "distributed": "in ICO 45%",
+        "distributed": "45%",
         "soft_cap": "750,000 CHF",
         "hard_cap": "10,000,000 CHF",
         "raised": "Unknown",
@@ -18587,7 +18587,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "350 ETH",
         "hard_cap": "550 ETH",
         "raised": "Unknown",
@@ -18610,7 +18610,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 4.76 %",
+        "distributed": "4.76 %",
         "raised": "Unknown",
         "price": "1  = 1.6 - 2.6 ",
         "start_date": "15th Nov 2017",
@@ -18673,7 +18673,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 33.3%",
+        "distributed": "33.3%",
         "soft_cap": "8000 ETH",
         "hard_cap": "20000 ETH",
         "raised": "Unknown",
@@ -18737,7 +18737,7 @@
         "accepting": [
             "BTC"
         ],
-        "distributed": "in ICO 46.2%",
+        "distributed": "46.2%",
         "soft_cap": "5,000,000 USD",
         "hard_cap": "50,000,000 USD",
         "raised": "$50,918,694",
@@ -18762,7 +18762,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "10,000 ETH",
         "hard_cap": "60,000 ETH",
         "raised": "Unknown",
@@ -18815,7 +18815,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 29%",
+        "distributed": "29%",
         "hard_cap": "2450 ETH",
         "raised": "Unknown",
         "price": "0.0440 ",
@@ -18879,7 +18879,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "300,000 ETH",
         "raised": "Unknown",
         "start_date": "18th Oct 2017",
@@ -18900,7 +18900,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 18%",
+        "distributed": "18%",
         "hard_cap": "40 000 000 USD",
         "raised": "Unknown",
         "price": "13.0000 ",
@@ -18966,7 +18966,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "400,000 USD",
         "hard_cap": "8,000,000 USD",
         "raised": "Unknown",
@@ -18990,7 +18990,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 51%",
+        "distributed": "51%",
         "soft_cap": "3000 ETH",
         "hard_cap": "50000 ETH",
         "raised": "Unknown",
@@ -19018,7 +19018,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "raised": "Unknown",
         "price": "0.0260 ",
         "start_date": "1st Apr 2018",
@@ -19041,7 +19041,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "250000000 USD",
         "raised": "Unknown",
         "price": "3.5100 ",
@@ -19071,7 +19071,7 @@
             "BTC",
             "Fiat"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "soft_cap": "2 000 000 USD",
         "hard_cap": "19 000 000 USD",
         "raised": "$3,935,974",
@@ -19095,7 +19095,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 53%",
+        "distributed": "53%",
         "raised": "Unknown",
         "price": "1  = 1.2 ",
         "start_date": "10th Feb 2018",
@@ -19118,7 +19118,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 24%",
+        "distributed": "24%",
         "soft_cap": "1500000 USD",
         "hard_cap": "47500000 USD",
         "raised": "Unknown",
@@ -19145,7 +19145,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "raised": "Unknown",
         "price": "1  = 0.1 ",
         "start_date": "19th Mar 2018",
@@ -19166,7 +19166,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "hard_cap": "40,000 ETH",
         "raised": "Unknown",
         "price": "0.1700 ",
@@ -19187,7 +19187,7 @@
             "Vision": "3.7",
             "Product": "2.0"
         },
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "raised": "$654,000",
         "price": "1  = 250 ",
         "start_date": "11th Apr 2018",
@@ -19209,7 +19209,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 49%",
+        "distributed": "49%",
         "soft_cap": "18,000 ETH",
         "hard_cap": "167,057 ETH",
         "raised": "Unknown",
@@ -19231,7 +19231,7 @@
             "Product": "-"
         },
         "min_investment": "60 UMC = 0.1 ETH",
-        "distributed": "in ICO 68.8%",
+        "distributed": "68.8%",
         "soft_cap": "5000 ETH",
         "hard_cap": "100000 ETH",
         "raised": "Unknown",
@@ -19275,7 +19275,7 @@
             "LTC",
             "XRP"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "hard_cap": "10,000,000 USD",
         "raised": "Unknown",
         "price": "1.0000 ",
@@ -19318,7 +19318,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "soft_cap": "150,000,000 VCB",
         "hard_cap": "300,000,000 VCB",
         "raised": "Unknown11.26662896 ETH",
@@ -19363,7 +19363,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "raised": "Unknown",
         "price": "0.0735 ",
         "start_date": "20th Oct 2017",
@@ -19405,7 +19405,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "soft_cap": "10000000 USD",
         "raised": "$4,004,4344,376.00000000 ETH",
         "price": "0.9460 ",
@@ -19430,7 +19430,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 82%",
+        "distributed": "82%",
         "raised": "Unknown",
         "price": "1.2000 ",
         "start_date": "18th Dec 2017",
@@ -19454,7 +19454,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "8,000,000 USD",
         "raised": "Unknown",
         "price": "2.1927 ",
@@ -19479,7 +19479,7 @@
             "LTC",
             "BHT"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "10th Feb 2018",
@@ -19501,7 +19501,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "raised": "$1,546,156",
         "price": "0.0400 ",
         "start_date": "10th Sep 2017",
@@ -19523,7 +19523,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "3000 ETH",
         "hard_cap": "50000 ETH",
         "raised": "Unknown",
@@ -19549,7 +19549,7 @@
             "BTC",
             "Fiat"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "soft_cap": "1375000 USD",
         "hard_cap": "13760000 USD",
         "raised": "Unknown",
@@ -19579,7 +19579,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "raised": "$37,213,381",
         "price": "0.7000 ",
         "start_date": "24th Mar 2018",
@@ -19620,7 +19620,7 @@
             "ETH",
             "XEM"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "raised": "$95,000,000",
         "price": "1.0000 ",
         "start_date": "2nd Oct 2017",
@@ -19697,7 +19697,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "hard_cap": "11000 ETH",
         "raised": "Unknown",
         "price": "0.5160 ",
@@ -19722,7 +19722,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "soft_cap": "1,500 ETH",
         "raised": "Unknown",
         "price": "0.1515 ",
@@ -19815,7 +19815,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 75 %",
+        "distributed": "75 %",
         "soft_cap": "3 000 000 USD",
         "hard_cap": "12 000 000 USD",
         "raised": "Unknown",
@@ -19879,7 +19879,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "100,000 USD",
         "hard_cap": "210,000,000 GBC",
         "raised": "Unknown",
@@ -19966,7 +19966,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "raised": "Unknown",
         "price": "1  = 0.01 ",
         "start_date": "8th Mar 2018",
@@ -19991,7 +19991,7 @@
             "LTC",
             "BTH"
         ],
-        "distributed": "in ICO 55%",
+        "distributed": "55%",
         "hard_cap": "80,000,000 USD",
         "raised": "Unknown",
         "price": "1  = 0.001 ",
@@ -20016,7 +20016,7 @@
             "ETH",
             "XMR"
         ],
-        "distributed": "in ICO 27%",
+        "distributed": "27%",
         "hard_cap": "8 100 000",
         "raised": "Unknown",
         "price": "1  = 0,85 ",
@@ -20038,7 +20038,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "soft_cap": "1600 ETH",
         "hard_cap": "6200 ETH",
         "raised": "Unknown",
@@ -20065,7 +20065,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 15%",
+        "distributed": "15%",
         "hard_cap": "4500 ETH",
         "raised": "Unknown",
         "price": "0.1762 ",
@@ -20154,7 +20154,7 @@
             "BTC",
             "ETH"
         ],
-        "distributed": "in ICO 77%",
+        "distributed": "77%",
         "hard_cap": "22,640 ETH",
         "raised": "$1,363,0274,585.30125313 ETH",
         "price": "0.1518 ",
@@ -20202,7 +20202,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "4,000 ETH",
         "hard_cap": "24,000 ETH",
         "raised": "Unknown",
@@ -20228,7 +20228,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 51%",
+        "distributed": "51%",
         "raised": "Unknown",
         "price": "0.1750 ",
         "start_date": "1st Feb 2018",
@@ -20309,7 +20309,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "raised": "Unknown",
         "price": "0.4540 "
     },
@@ -20329,7 +20329,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "1  = 1 ",
         "start_date": "25th Mar 2018",
@@ -20352,7 +20352,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "hard_cap": "5000 ETH",
         "raised": "Unknown",
         "price": "0.6700 ",
@@ -20464,7 +20464,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "13,500 ETH",
         "raised": "Unknown",
         "price": "0.1500 ",
@@ -20509,7 +20509,7 @@
             "ETH",
             "WAVES"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "17th Aug 2017",
@@ -20536,7 +20536,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 25%",
+        "distributed": "25%",
         "soft_cap": "300 000 MGT",
         "hard_cap": "1 400 000 MGT",
         "raised": "Unknown",
@@ -20561,7 +20561,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 20%",
+        "distributed": "20%",
         "raised": "Unknown",
         "price": "11.7170 ",
         "start_date": "1st Dec 2017",
@@ -20613,7 +20613,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "1000000 USD",
         "hard_cap": "20000000 USD",
         "raised": "Unknown",
@@ -20683,7 +20683,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "3.7500 ",
         "start_date": "1st Dec 2017",
@@ -20724,7 +20724,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "$1,185,990",
         "price": "0.0395 ",
         "start_date": "30th Jan 2018",
@@ -20787,7 +20787,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "start_date": "2nd Dec 2017",
         "end_date": "2nd Jan 2018"
@@ -20804,7 +20804,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "soft_cap": "500000 USD",
         "hard_cap": "3000000 USD",
         "raised": "Unknown",
@@ -20873,7 +20873,7 @@
             "ZEC",
             "Fiat"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "25,000,000 USD",
         "raised": "Unknown",
         "price": "0.7900 ",
@@ -20898,7 +20898,7 @@
             "LTC",
             "BCH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "Unknown",
         "price": "1.8500 ",
         "start_date": "27th Dec 2017",
@@ -20920,7 +20920,7 @@
             "Vision": "2.0",
             "Product": "2.0"
         },
-        "distributed": "in ICO 20%",
+        "distributed": "20%",
         "raised": "$12,240,000",
         "price": "3.7800 ",
         "start_date": "11th Feb 2018",
@@ -20944,7 +20944,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "hard_cap": "250000000 CNN",
         "raised": "Unknown",
         "price": "0.3700 ",
@@ -20985,7 +20985,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "$92,724",
         "start_date": "1st Nov 2017",
         "end_date": "28th Nov 2017"
@@ -21006,7 +21006,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "600 ETH",
         "hard_cap": "12000 ETH",
         "raised": "Unknown",
@@ -21036,7 +21036,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "10000 ETH",
         "raised": "$893,695",
         "price": "0.8030 ",
@@ -21105,7 +21105,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 97.5%",
+        "distributed": "97.5%",
         "soft_cap": "50000 ETH",
         "raised": "Unknown",
         "price": "1  = 1000 ",
@@ -21164,7 +21164,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "hard_cap": "1000000 ETH",
         "raised": "Unknown",
         "price": "1.0581 ",
@@ -21222,7 +21222,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 74%",
+        "distributed": "74%",
         "raised": "$8,855,329",
         "price": "0.0293 ",
         "start_date": "11th Sep 2017",
@@ -21250,7 +21250,7 @@
             "BTC",
             "LTC"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "6,399,988 USD",
         "hard_cap": "26,127,734 USD",
         "raised": "Unknown",
@@ -21277,7 +21277,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "200 ETH",
         "hard_cap": "800 ETH",
         "raised": "Unknown",
@@ -21304,7 +21304,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "100 ETH",
         "raised": "Unknown",
         "price": "0.8504 ",
@@ -21418,7 +21418,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 65%",
+        "distributed": "65%",
         "raised": "Unknown",
         "price": "0.4567 ",
         "start_date": "27th Dec 2017",
@@ -21441,7 +21441,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "raised": "Unknown",
         "price": "1  = 0.50 ",
         "start_date": "25th Feb 2018",
@@ -21463,7 +21463,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "$33,407,260",
         "price": "0.6700 ",
         "start_date": "18th Oct 2017",
@@ -21485,7 +21485,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO ~44.4%",
+        "distributed": "~44.4%",
         "soft_cap": "$500,000.00 USD",
         "hard_cap": "$5,000,000.00 USD",
         "raised": "Unknown",
@@ -21508,7 +21508,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 76%",
+        "distributed": "76%",
         "raised": "Unknown",
         "price": "2.5000 ",
         "start_date": "1st Mar 2018",
@@ -21533,7 +21533,7 @@
             "LTC",
             "various"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "Unknown",
         "price": "1.7500 ",
         "start_date": "8th Dec 2017",
@@ -21556,7 +21556,7 @@
             "ETH",
             "Fiat"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "60,000 ETH",
         "hard_cap": "160,000 ETH",
         "raised": "Unknown",
@@ -21606,7 +21606,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 30%",
+        "distributed": "30%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "7th Oct 2017",
@@ -21647,7 +21647,7 @@
             "Vision": "2.0",
             "Product": "2.6"
         },
-        "distributed": "in ICO 0.6%",
+        "distributed": "0.6%",
         "hard_cap": "4,000,000 USD",
         "raised": "$501,000",
         "price": "1.0000 ",
@@ -21666,7 +21666,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 15%",
+        "distributed": "15%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "5th Mar 2018",
@@ -21689,7 +21689,7 @@
             "Vision": "2.0",
             "Product": "1.4"
         },
-        "distributed": "in ICO 25%",
+        "distributed": "25%",
         "raised": "Unknown",
         "price": "0.2000 ",
         "start_date": "25th Jan 2018",
@@ -21837,7 +21837,7 @@
             "ETH",
             "BTC"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "Unknown",
         "price": "0.4500 ",
         "start_date": "8th Nov 2017",
@@ -21855,7 +21855,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO ~47.6%",
+        "distributed": "~47.6%",
         "raised": "Unknown",
         "price": "2.0000 ",
         "start_date": "7th Dec 2017",
@@ -21898,7 +21898,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "soft_cap": "3000 ETH",
         "raised": "Unknown",
         "price": "1.0000 ",
@@ -21964,7 +21964,7 @@
             "ETH",
             "LTC"
         ],
-        "distributed": "in ICO 15%",
+        "distributed": "15%",
         "raised": "Unknown",
         "price": "1.2000 ",
         "start_date": "1st Feb 2018",
@@ -21983,7 +21983,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 10%",
+        "distributed": "10%",
         "raised": "Unknown",
         "start_date": "20th Oct 2017",
         "end_date": "23rd Oct 2017"
@@ -22006,7 +22006,7 @@
             "BCH",
             "LTC"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "hard_cap": "30,000,000 Dibbs",
         "raised": "Unknown",
         "price": "1.0000 ",
@@ -22053,7 +22053,7 @@
             "ETH",
             "LTC"
         ],
-        "distributed": "in ICO ~28.6%",
+        "distributed": "~28.6%",
         "raised": "$63,173",
         "price": "0.0500 ",
         "start_date": "1st Dec 2017",
@@ -22175,7 +22175,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 67%",
+        "distributed": "67%",
         "raised": "Unknown",
         "price": "2.4400 ",
         "start_date": "1st Jan 2018",
@@ -22198,7 +22198,7 @@
             "ETH",
             "WAVES"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "soft_cap": "1 000 000 USD",
         "hard_cap": "400 000 000 USD",
         "raised": "Unknown",
@@ -22317,7 +22317,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "soft_cap": "100 000 EUR",
         "hard_cap": "10 000 000 USD",
         "raised": "Unknown",
@@ -22361,7 +22361,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "raised": "Unknown75.56020000 BTC877.38260000 ETH",
         "price": "0.0066 ",
         "start_date": "10th Jul 2017",
@@ -22381,7 +22381,7 @@
             "Vision": "2.9",
             "Product": "2.0"
         },
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "raised": "Unknown",
         "price": "0.3000 ",
         "start_date": "15th Dec 2017",
@@ -22513,7 +22513,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 70%",
+        "distributed": "70%",
         "raised": "$9,000,000",
         "price": "1  = 150,000 ",
         "start_date": "11th Mar 2018",
@@ -22534,7 +22534,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 100%",
+        "distributed": "100%",
         "raised": "Unknown",
         "price": "5.1750 ",
         "start_date": "8th Dec 2017",
@@ -22598,7 +22598,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "raised": "Unknown",
         "price": "0.0414 ",
         "start_date": "7th Feb 2018",
@@ -22620,7 +22620,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 75%",
+        "distributed": "75%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "18th Dec 2017",
@@ -22645,7 +22645,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 25%",
+        "distributed": "25%",
         "raised": "Unknown",
         "price": "3.4800 ",
         "start_date": "5th Mar 2018",
@@ -22714,7 +22714,7 @@
             "Vision": "3.0",
             "Product": "2.0"
         },
-        "distributed": "in ICO 31%",
+        "distributed": "31%",
         "raised": "Unknown",
         "price": "1.1500 ",
         "start_date": "1st Oct 2017",
@@ -22775,7 +22775,7 @@
             "Product": "-"
         },
         "min_investment": "100 XKO",
-        "distributed": "in ICO 92%",
+        "distributed": "92%",
         "hard_cap": "10,000 ETH",
         "raised": "Unknown",
         "price": "0.3700 ",
@@ -22795,7 +22795,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 60%",
+        "distributed": "60%",
         "raised": "Unknown",
         "price": "1.2500 ",
         "start_date": "1st Dec 2017",
@@ -22813,7 +22813,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 38%",
+        "distributed": "38%",
         "hard_cap": "38,000,000,000 TWNKL",
         "raised": "Unknown",
         "price": "0.0100 ",
@@ -22835,7 +22835,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "Unknown",
         "price": "1  = 0.69 ",
         "start_date": "11th Feb 2018",
@@ -22859,7 +22859,7 @@
             "BTC",
             "LTC"
         ],
-        "distributed": "in ICO 100%",
+        "distributed": "100%",
         "hard_cap": "1,200,000 USD",
         "raised": "Unknown",
         "price": "0.7830 ",
@@ -22885,7 +22885,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 50 %",
+        "distributed": "50 %",
         "raised": "Unknown",
         "price": "0.1249 ",
         "start_date": "16th Feb 2018",
@@ -22944,7 +22944,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "distributed": "in ICO 19.35%",
+        "distributed": "19.35%",
         "raised": "Unknown",
         "price": "1.2000 ",
         "start_date": "15th Nov 2017",
@@ -23124,7 +23124,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 20%",
+        "distributed": "20%",
         "soft_cap": "1,000 ETH",
         "hard_cap": "70,000 ETH",
         "raised": "Unknown",
@@ -23188,7 +23188,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 40%",
+        "distributed": "40%",
         "raised": "$1,600",
         "price": "0.0258 ",
         "start_date": "30th Aug 2017",
@@ -23296,7 +23296,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 85%",
+        "distributed": "85%",
         "raised": "Unknown",
         "price": "0.0940 ",
         "start_date": "10th Oct 2017",
@@ -23338,7 +23338,7 @@
         "accepting": [
             "ETH"
         ],
-        "distributed": "in ICO 80%",
+        "distributed": "80%",
         "raised": "Unknown",
         "price": "1.0000 ",
         "start_date": "2nd Dec 2017",
@@ -23490,7 +23490,7 @@
             "Vision": "1.7",
             "Product": "1.7"
         },
-        "distributed": "in ICO 50%",
+        "distributed": "50%",
         "soft_cap": "5,000,000 USD",
         "raised": "Unknown",
         "price": "0.0500 ",
