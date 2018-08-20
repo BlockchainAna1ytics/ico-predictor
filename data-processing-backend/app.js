@@ -18,6 +18,8 @@ app.use(function(req, res, next) {
 
 app.use('/', indexRouter);
 
+app.use('/public/', express.static('files'));
+
 console.log('app listening at port 3000')
 app.listen(3000);
 
