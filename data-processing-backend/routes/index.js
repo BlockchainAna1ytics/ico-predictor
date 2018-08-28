@@ -1,8 +1,10 @@
 var express = require('express');
 var router = express.Router();
 var fs = require('fs');
+var multer = require('multer');
 var path = require('path')
-const dirName = __dirname.substring(0, __dirname.length - 'router/'.length) + '/files';
+const dirName = __dirname.substring(0, __dirname.length - 'router/'.length) + '/files/';
+var upload = multer({ dest: dirName })
 
 /* GET home page. */
 router.get('/files', function (req, res, next) {
@@ -21,15 +23,15 @@ router.get('/files/:file_name', function (req, res, next) {
     return;
   }
 
-  fs.readFile(dirName + '/' + req.params.file_name, (err, file) => {
+  fs.readFile(dirName + req.params.file_name, (err, file) => {
     res.send(file.toString())
   })
   console.log('success !')
 });
 
-router.post('/files/:file_name', function (req, res, next) {
-  console.log('POST : ' + req.params.file_name)
-  const filePath = dirName + '/' + req.params.file_name;
+router.put('/files/:file_name', function (req, res, next) {
+  console.log('PUT : ' + req.params.file_name)
+  const filePath = dirName + req.params.file_name;
   if (path.extname(req.params.file_name) != '.json') {
     res.status(404).send({ message: 'file name rror : not JSON file' })
     return;
@@ -42,5 +44,13 @@ router.post('/files/:file_name', function (req, res, next) {
 });
 
 router.get('/', (req, res, next) => res.send({ message: 'app works !' }))
+
+router.post('/files', upload.any(), function (req, res, next) {
+  console.log('POST files')
+  var path = '';
+  // No error occured.
+  console.log(req.files)
+  return res.send("Upload Completed for " + path);
+});
 
 module.exports = router;
