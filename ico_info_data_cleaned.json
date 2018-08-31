@@ -10601,7 +10601,7 @@
             "ETC",
             "$"
         ],
-        "hard_cap": "15000000",
+        "hard_cap": "15000000$",
         "raised": "$9,800,000",
         "price": "1.0000 ",
         "start_date": "1st Jan 2018",
@@ -11808,10 +11808,11 @@
         "accepting": [
             "BTC",
             "ETH",
-            "$"
+            "USD"
         ],
         "distributed": "8.45%",
-        "hard_cap": "24000000",
+        "soft_cap": "5000000$",
+        "hard_cap": "$24000000",
         "raised": "",
         "price": "0.5000 ",
         "start_date": "21st May 2018",
@@ -24665,7 +24666,7 @@
             "ETH"
         ],
         "distributed": "75%",
-        "hard_cap": "670000000",
+        "hard_cap": "670000000LIST",
         "raised": "",
         "price": "0.0460 ",
         "start_date": "23rd Apr 2018",
@@ -25476,7 +25477,7 @@
             "ETH"
         ],
         "distributed": "33%",
-        "hard_cap": "33000000",
+        "hard_cap": "$5000000",
         "raised": "49.02268590 ETH",
         "price": "1.4631 ",
         "start_date": "17th Jul 2017",
@@ -28866,7 +28867,7 @@
         "accepting": [
             "BTC"
         ],
-        "hard_cap": "1000000",
+        "hard_cap": "1000000$",
         "raised": "$1,069,525",
         "price": "0.0793 ",
         "start_date": "30th Jan 2017",
@@ -32991,7 +32992,7 @@
         "accepting": [
             "Fiat"
         ],
-        "hard_cap": "4000000",
+        "hard_cap": "$4000000",
         "raised": "",
         "price": "0.1000 ",
         "start_date": "22nd Oct 2017",
@@ -33685,7 +33686,7 @@
             "Vision": "-",
             "Product": "-"
         },
-        "hard_cap": "10000000",
+        "hard_cap": "$10000000",
         "raised": "4.99869953 ETH",
         "price": "2.2587 ",
         "start_date": "13th Sep 2017",
